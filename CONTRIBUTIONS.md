@@ -1,4 +1,3 @@
 # Contributions
 
-Contributions are welcome.
-Please open an issue for discussion, then submit a focused pull request with clear change descriptions.
+This file contains the details of the Contributions made by group members for this project
