@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets excluded because of size
+/data/raw/
+/data/processed/
