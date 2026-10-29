@@ -48,16 +48,13 @@ Small datasets may be included when redistribution is permitted. Large or restri
 **Final decisions and justification:** [Explain selected periods, inclusion criteria, missing-data handling, derived measures, and reasons for the final analytical choices.]
 
 ## Streamlit dashboard
-- **The dashboard will be implemented in app.py, using Streamlit for the interface and user controls, and Plotly for interactive charts.
+The dashboard will be implemented in app.py, using Streamlit for the interface and user controls, and Plotly for interactive charts.
 - **Global overview:** Interactive choropleth world map of homicide rates.
 - **Country comparison:** Side-by-side comparisons of two selected countries, covering overall rates, victim demographics, killing mechanisms, and other available characteristics.
 - **Historical trends:** Line charts showing changes over time.
 - **Data coverage:** Clear identification of gaps and comparison periods.
 
 ## Repository structure
-
-The intended structure follows the project guide; adjust it to match the implementation.
-
 ```text
 project/
 |-- README.md
@@ -76,9 +73,6 @@ project/
 |   |-- tables/
 |   |-- presentation/
 ```
-
-Use relative file paths within the project rather than machine-specific absolute paths.
-
 ## Setup and execution
 
 ### 1. Obtain the project
@@ -121,7 +115,7 @@ python -m pip install -r requirements.txt
 
 ### 4. Generate processed data
 
-Once the data-wrangling script has been implemented, the intended command is:
+Run the wranglincg script to generate the processed data:
 
 ```bash
 python src/wrangle.py
@@ -131,7 +125,7 @@ python src/wrangle.py
 
 ### 5. Run the dashboard
 
-Once the app has been implemented:
+To run the dashboard the command is:
 
 ```bash
 python -m streamlit run app.py
@@ -140,8 +134,6 @@ python -m streamlit run app.py
 Open the local address shown in the terminal. Ensure that the deployed app can also obtain its required data; ignored files on a developer's laptop are not automatically available in deployment.
 
 ## Key findings and final outputs
-
-Findings will be added after analysis. The proposal does not establish results.
 
 - **Findings:** [Summarise results with countries, reference years, units, interpretation, and qualifications.]
 - **Visualisations:** [Embed or link final figures and explain their messages.]
