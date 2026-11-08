@@ -22,9 +22,14 @@ DATA_DIR = BASE_DIR / "data" / "processed"
 START_YEAR = 2015
 END_YEAR = 2024
 
-BG = "#172630"
-TEXT = "#E8EDF0"
-GRID = "#2C3E4A"
+BG = "#110E12"
+PANEL = "#231B20"
+BURGUNDY = "#581824"
+CRIMSON = "#D44B55"
+TAPE = "#EBC34C"
+TEXT = "#F2EDE6"
+MUTED_TEXT = "#BDB1B3"
+GRID = "#49363D"
 
 COUNTRY_A_COLOR = "#00BFA6"
 COUNTRY_B_COLOR = "#FF6B6B"
@@ -42,6 +47,136 @@ DIMENSION_FILES = {
     "Situational context": "context.csv",
     "Citizenship": "citizenship.csv",
 }
+
+
+# VISUAL THEME
+# Keep the decorative redesign scoped to the app shell and native widgets.
+st.markdown(
+    f"""
+    <style>
+        :root {{
+            --noir-bg: {BG};
+            --noir-panel: {PANEL};
+            --noir-burgundy: {BURGUNDY};
+            --noir-crimson: {CRIMSON};
+            --noir-tape: {TAPE};
+            --noir-ivory: {TEXT};
+            --noir-muted: {MUTED_TEXT};
+        }}
+
+        .stApp {{
+            background: var(--noir-bg);
+            color: var(--noir-ivory);
+        }}
+
+        [data-testid="stHeader"] {{
+            background: var(--noir-bg);
+        }}
+
+        [data-testid="stSidebar"] {{
+            background: var(--noir-panel);
+            border-right: 1px solid var(--noir-burgundy);
+        }}
+
+        [data-testid="stSidebar"] h2,
+        [data-testid="stSidebar"] label {{
+            color: var(--noir-ivory);
+        }}
+
+        [data-testid="stMetric"] {{
+            background: var(--noir-panel);
+            border: 1px solid var(--noir-burgundy);
+            border-radius: 4px;
+            padding: 1rem;
+        }}
+
+        [data-testid="stMetricLabel"],
+        [data-testid="stCaptionContainer"] {{
+            color: var(--noir-muted);
+        }}
+
+        [data-testid="stSelectbox"] label,
+        [data-testid="stCheckbox"] label {{
+            color: var(--noir-ivory);
+        }}
+
+        [data-testid="stSelectbox"] div[data-baseweb="select"] > div {{
+            background: var(--noir-panel);
+            border-color: var(--noir-crimson);
+            color: var(--noir-ivory);
+        }}
+
+        .case-header {{
+            background: var(--noir-burgundy);
+            border: 1px solid var(--noir-crimson);
+            padding: 1.5rem 2rem 1.35rem;
+            margin: 0 0 0.1rem;
+        }}
+
+        .case-kicker {{
+            color: var(--noir-tape);
+            font-size: 0.72rem;
+            font-weight: 700;
+            letter-spacing: 0.2em;
+            margin-bottom: 0.35rem;
+        }}
+
+        .case-title {{
+            color: var(--noir-ivory);
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            line-height: 1;
+            margin: 0;
+        }}
+
+        .case-subtitle {{
+            color: var(--noir-muted);
+            font-size: 1rem;
+            margin: 0.75rem 0 0;
+        }}
+
+        .warning-tape {{
+            align-items: center;
+            background-color: var(--noir-tape);
+            background-image: repeating-linear-gradient(
+                -45deg,
+                transparent 0,
+                transparent 28px,
+                var(--noir-bg) 28px,
+                var(--noir-bg) 34px
+            );
+            color: var(--noir-bg);
+            display: flex;
+            font-size: 0.95rem;
+            font-weight: 1000;
+            justify-content: center;
+            letter-spacing: 0.3em;
+            margin-top: 0.45rem;
+            min-height: 1.65rem;
+            padding: 0.2rem 1rem;
+            text-transform: uppercase;
+        }}
+
+        .warning-tape span {{
+            background: var(--noir-tape);
+            font-size: 1.15rem;
+            font-weight: 1000;
+            padding: 0.05rem 1rem;
+        }}
+
+        h1, h2, h3 {{
+            color: var(--noir-ivory);
+            letter-spacing: 0.03em;
+        }}
+
+        hr {{
+            border-color: var(--noir-burgundy);
+        }}
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 
  
@@ -256,8 +391,19 @@ dimensions = {
 # Introduce the dashboard and explain the source and treatment of missing data.
  
 
-st.title("Beyond the Yellow Tape")
-st.subheader("Investigating Global Homicide Rates")
+st.markdown(
+    """
+    <header class="case-header">
+        <div class="case-kicker">GLOBAL HOMICIDE INVESTIGATION</div>
+        <h1 class="case-title">BEYOND THE YELLOW TAPE</h1>
+        <p class="case-subtitle">Investigating Global Homicide Rates</p>
+    </header>
+    <div class="warning-tape" aria-label="Warning">
+        <span>WARNING</span>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 st.markdown(
     """
@@ -284,7 +430,7 @@ if df.empty:
 
  
 # SIDEBAR FILTERS
-# Let the user choose a year and whether imputed overall rates should be excluded.
+# Let the user choose whether imputed overall rates should be excluded.
  
 
 st.sidebar.header("Dashboard Filters")
@@ -299,12 +445,6 @@ default_year = (
     END_YEAR if END_YEAR in available_years else available_years[-1]
 )
 
-selected_year = st.sidebar.selectbox(
-    "Select year",
-    available_years,
-    index=available_years.index(default_year),
-)
-
 exclude_imputed = st.sidebar.checkbox(
     "Exclude imputed rates",
     value=False,
@@ -314,19 +454,29 @@ exclude_imputed = st.sidebar.checkbox(
     ),
 )
 
-year_rows = df[df["Year"] == selected_year].copy()
-
-if exclude_imputed:
-    year_rows = year_rows[~year_rows["Was_Imputed"]].copy()
-
-
  
 # GLOBAL OVERVIEW
 # Summarize the selected year and show the geographic pattern of homicide rates.
  
 
 st.divider()
-st.header("Global Overview")
+overview_heading, overview_year = st.columns([4, 1])
+
+with overview_heading:
+    st.header("01 / Global Overview")
+
+with overview_year:
+    selected_year = st.selectbox(
+        "Year",
+        available_years,
+        index=available_years.index(default_year),
+        label_visibility="visible",
+    )
+
+year_rows = df[df["Year"] == selected_year].copy()
+
+if exclude_imputed:
+    year_rows = year_rows[~year_rows["Was_Imputed"]].copy()
 
 global_rows = year_rows.dropna(subset=["Rate"]).copy()
 
@@ -426,6 +576,8 @@ else:
 
         fig_map.update_geos(
             projection_type="natural earth",
+            center=dict(lon=0, lat=0),
+            projection_scale=1,
             showframe=False,
             showcoastlines=True,
             coastlinecolor="#536573",
@@ -441,6 +593,7 @@ else:
         )
 
         fig_map.update_layout(
+            uirevision="global-map-orientation",
             height=650,
             paper_bgcolor=BG,
             plot_bgcolor=BG,
