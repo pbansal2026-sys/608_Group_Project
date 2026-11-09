@@ -257,8 +257,8 @@ def prepare_rates(data):
     return data.sort_values(["Country", "Year"]).reset_index(drop=True)
 
 
-# Clean category-level tables and retain total-sex rows for profile analysis.
-def prepare_dimension(data):
+# Clean category-level tables and standardize their types.
+def prepare_dimension(data, dimension_name=None):
     """Standardize a processed category dataset."""
     if data.empty:
         return pd.DataFrame()
@@ -278,12 +278,19 @@ def prepare_dimension(data):
     data = data.dropna(subset=["Country", "Year", "Category"])
     data["Year"] = data["Year"].astype(int)
 
-    # These dimension datasets may contain male, female, and total-sex rows.
-    # The profile comparisons use total-sex records.
+    # Preserve Male and Female rows for Citizenship analysis.
+    # Other dimensions continue to use Total-sex records.
     if "Sex" in data.columns:
-        data = data[
-            data["Sex"].astype(str).str.lower() == "total"
-        ].copy()
+        if dimension_name == "Citizenship":
+            data = data[
+                data["Sex"].astype(str).str.lower().isin(
+                    ["male", "female", "total"]
+                )
+            ].copy()
+        else:
+            data = data[
+                data["Sex"].astype(str).str.lower() == "total"
+            ].copy()
 
     return data
 
@@ -381,7 +388,7 @@ rates_raw, dimensions_raw = load_all_data()
 df = prepare_rates(rates_raw)
 
 dimensions = {
-    name: prepare_dimension(data)
+    name: prepare_dimension(data, name)
     for name, data in dimensions_raw.items()
 }
 
@@ -994,7 +1001,7 @@ with compare_tab:
             citizenship_data = dimensions.get("Citizenship", pd.DataFrame())
 
             female_rows = []
-            nri_rows = []
+            nri_sex_rows = []
 
             for country in [country_a, country_b]:
                 # Female share
@@ -1023,14 +1030,15 @@ with compare_tab:
                                 ),
                             }
                         )
+                        
 
-                # Non-resident / international categories
+                # Male and female shares among non-resident / international victims
+
                 if not citizenship_data.empty:
-                    citizenship_profile = get_profile(
-                        "Citizenship",
-                        country,
-                        compare_year,
-                    )
+                    citizenship_profile = citizenship_data[
+                        (citizenship_data["Country"] == country)
+                        & (citizenship_data["Year"] == compare_year)
+                    ].copy()
 
                     category_text = (
                         citizenship_profile["Category"]
@@ -1038,26 +1046,45 @@ with compare_tab:
                         .str.lower()
                     )
 
-                    nri_match = citizenship_profile[
+                    foreign_match = citizenship_profile[
                         category_text.str.contains(
                             r"non.?resident|foreign|international",
                             regex=True,
                             na=False,
                         )
+                    ].copy()
+
+                    foreign_sex = foreign_match[
+                        foreign_match["Sex"].astype(str).str.strip().str.lower().isin(
+                            ["male", "female"]
+                        )
                     ]
 
-                    if not nri_match.empty:
-                        nri_rows.append(
+                    male_count = foreign_sex.loc[
+                        foreign_sex["Sex"].astype(str).str.strip().str.lower() == "male", "Count"
+                    ].sum()
+
+                    female_count = foreign_sex.loc[
+                        foreign_sex["Sex"].astype(str).str.strip().str.lower() == "female", "Count"
+                    ].sum()
+
+                    total_foreign = male_count + female_count
+
+                    if total_foreign > 0:
+                        nri_sex_rows.append(
                             {
                                 "Country": country,
-                                "NRI victim share (%)": float(
-                                    nri_match["Share_pct"].sum()
+                                "Male share among foreign victims (%)": (
+                                    male_count / total_foreign * 100
+                                ),
+                                "Female share among foreign victims (%)": (
+                                    female_count / total_foreign * 100
                                 ),
                             }
                         )
 
             female_frame = pd.DataFrame(female_rows)
-            nri_frame = pd.DataFrame(nri_rows)
+            nri_sex_frame = pd.DataFrame(nri_sex_rows)
 
             share_col1, share_col2 = st.columns(2)
 
@@ -1086,29 +1113,52 @@ with compare_tab:
                     show_plot(fig_female, 400)
 
             with share_col2:
-                if nri_frame.empty:
+                if nri_sex_frame.empty:
                     st.info(
-                        "No matching non-resident/international categories "
-                        "were found in the citizenship data for these countries."
+                        "Male/female victim-share data is unavailable "
+                        "for the selected countries."
                     )
                 else:
-                    fig_nri = px.bar(
-                        nri_frame,
-                        x="Country",
-                        y="NRI victim share (%)",
-                        color="Country",
-                        color_discrete_map=colors,
-                        text="NRI victim share (%)",
-                        title="Non-resident / international victim share",
+                    nri_sex_long = nri_sex_frame.melt(
+                        id_vars="Country",
+                        value_vars=[
+                            "Male share among foreign victims (%)",
+                            "Female share among foreign victims (%)",
+                        ],
+                        var_name="Sex",
+                        value_name="Share (%)",
                     )
 
-                    fig_nri.update_traces(
+                    nri_sex_long["Sex"] = nri_sex_long["Sex"].replace(
+                        {
+                            "Male share among foreign victims (%)": "Male",
+                            "Female share among foreign victims (%)": "Female",
+                        }
+                    )
+
+                    fig_nri_sex = px.bar(
+                        nri_sex_long,
+                        x="Country",
+                        y="Share (%)",
+                        color="Sex",
+                        barmode="group",
+                        text="Share (%)",
+                        title=(
+                            "Male and female shares among "
+                            "foreign-citizen victims"
+                        ),
+                        color_discrete_map={
+                            "Male": "#3D5875",
+                            "Female": "#E4AECD",
+                        },
+                    )
+
+                    fig_nri_sex.update_traces(
                         texttemplate="%{text:.1f}%",
                         textposition="outside",
                     )
 
-                    show_plot(fig_nri, 400)
-
+                    show_plot(fig_nri_sex, 400)
 
             # Dimension profile comparison
 

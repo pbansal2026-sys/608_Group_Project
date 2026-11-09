@@ -696,25 +696,22 @@ def build_dimension(
 
     if output_name == "citizenship":
 
-        # Use Male/Female source rows to derive Total-sex counts.
+        # Keep the original Male and Female citizenship rows.
         data = data[
-            data["Sex"].isin(
-                ["Male", "Female"]
-            )
+            data["Sex"].isin(["Male", "Female"])
         ].copy()
 
+        # Derive Total-sex citizenship counts by adding Male + Female.
+        total_data = build_citizenship_total(data)
+
+        # Preserve Male, Female, and derived Total rows.
         data = pd.concat(
             [
                 data,
-                build_citizenship_total(data),
+                total_data,
             ],
             ignore_index=True,
         )
-
-        # Retain only the derived Total-sex profile for the app.
-        data = data[
-            data["Sex"] == "Total"
-        ].copy()
 
     else:
 
