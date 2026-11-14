@@ -63,7 +63,7 @@ The project uses publicly available intentional homicide statistics from the **U
 
 **Source:** [UNODC Intentional Homicide Data Portal](https://data.unodc.org/datareport/hom-victim)  
 **Download date:** 25 October 2026  
-**Time period:** 2015–2024  
+**Time period:** 2015-2024  
 **Original file:** `total_count_intentional_homicide.xlsx`  
 **Primary population of interest:** Victims of intentional homicide, with age aggregated to the total category
 
