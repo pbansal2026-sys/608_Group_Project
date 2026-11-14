@@ -2,12 +2,12 @@
 
 **Can countries with similar intentional homicide rates exhibit different homicide profiles?**
 
-*Beyond the Yellow Tape* is an interactive data analytics dashboard developed using Python, Pandas, Streamlit and Plotly. It explores global patterns in intentional homicide and examines how countries with similar overall homicide rates may differ in victim characteristics, mechanisms of killing and incident circumstances.
-
-Rather than focusing exclusively on the overall homicide rate, the project investigates the composition of recorded homicide victims to provide a more detailed understanding of lethal violence across countries.
+*Beyond the Yellow Tape* is an interactive data analytics dashboard developed using Python, Pandas, Streamlit and Plotly. It explores global patterns in intentional homicide and examines how countries with similar overall homicide rates may differ in victim characteristics, mechanisms of killing and incident circumstances. Rather than focusing exclusively on the overall homicide rate, the project investigates the composition of recorded homicide victims to provide a more detailed understanding of lethal violence across countries.
 
 **Course:** DS608 Data Analytics for Economics, Master of Science in Data Science in Economics (MDSE), Singapore Management University  
 **Group members:** Paavas Bansal and Nehantha Sathesh   
+
+---
 
 ### Accessing the Dashboard
 
