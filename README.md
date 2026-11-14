@@ -13,6 +13,8 @@
 
 The Beyond the Yellow Tape dashboard is publicly accessible through the link below:
 
+[https://beyond-the-yellow-tape.streamlit.app/](https://beyond-the-yellow-tape.streamlit.app/)
+
 The dashboard allows users to explore global intentional homicide patterns between 2015 and 2024 without downloading the repository or installing Python.
 
 Users can interact with two main sections:
