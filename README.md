@@ -498,7 +498,7 @@ The project consists of the following deliverables:
 | Data preprocessing | Cleaning and restructuring of the UNODC dataset | `src/wrangle.py` |
 | Data availability analysis | Country-year assessment of reported subcategories | `src/availability.ipynb` |
 | Availability table | Supporting CSV for identifying potentially informative comparisons | [`outputs/tables/homicide_availability.csv`](outputs/tables/homicide_availability.csv) |
-| Presentation | Summary of project motivation, methodology, findings and limitations (PDF) | `outputs/presentation/DS608_final_presentation.pdf` |
+| Presentation | Summary of project motivation, methodology, findings and limitations (PDF) | [`outputs/presentation/DS608_final_presentation.pdf`](outputs/presentation/DS608_final_presentation.pdf) |
 | AI usage documentation | Record of generative AI assistance and review | [AI_USAGE.md](AI_USAGE.md) |
 | Group contributions | Documentation of individual contributions | [CONTRIBUTIONS.md](CONTRIBUTIONS.md) |
 
