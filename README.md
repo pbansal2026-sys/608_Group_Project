@@ -504,7 +504,7 @@ The project consists of the following deliverables:
 
 ---
 
-## 11. Reproducibility and Repository Management
+## 10. Reproducibility and Repository Management
 
 The repository uses Git and GitHub for version control and collaboration.
 
@@ -520,7 +520,7 @@ Users should consult the original UNODC documentation and applicable reuse condi
 
 ---
 
-## 12. AI Usage and Group Contributions
+## 11. AI Usage and Group Contributions
 
 This project was completed as part of the MDSE programme at Singapore Management University.
 
