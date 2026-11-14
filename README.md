@@ -526,6 +526,7 @@ The `.gitignore` configuration excludes the original raw data, virtual environme
 Other locally generated datasets, including `coverage.csv`, are not required for the public dashboard and remain excluded from the repository.
 The data availability analysis is documented separately through `src/availability.ipynb`, with its resulting CSV provided under `outputs/tables/`.
 This arrangement balances reproducibility, repository size and ease of deployment by providing the datasets necessary to operate the dashboard while retaining the original preprocessing code for users who wish to reproduce the analysis.
+
 ---
 
 ## 11. AI Usage and Group Contributions
