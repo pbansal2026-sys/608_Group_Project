@@ -9,7 +9,7 @@
 
 ---
 
-### Accessing the Dashboard
+## Accessing the Dashboard
 
 The Beyond the Yellow Tape dashboard is publicly accessible through the link below:
 
@@ -105,14 +105,14 @@ The original UNODC data was filtered to retain the relevant intentional homicide
 
 The dataset was then restructured to support country-year analysis, including:
 
-1. Standardising column names and relevant country identifiers.
+1. Validating required source columns and standardising text fields and country identifiers.
 2. Converting numeric observations to appropriate data types.
 3. Separating and aligning homicide counts and rates.
 4. Identifying duplicate observations.
 5. Retaining missing observations rather than treating them as zero.
 6. Organising the different homicide dimensions into processed datasets.
 
-The processed files are stored locally in `data/processed/` and loaded by the Streamlit application.
+The six processed CSV files are stored in `data/processed/` and committed to GitHub for use by the public Streamlit dashboard.
 
 ### 3.2 Treatment of Missing Data
 
@@ -215,7 +215,7 @@ The finder identifies similarity in overall rates only. It does not guarantee th
 Users can select two countries and compare available information on:
 
 - Female victim shares.
-- Non-resident or foreign-citizen victim shares, where identifiable.
+- Sex composition among foreign or non-resident homicide victims, where available.
 - Mechanisms of killing.
 - Victim–perpetrator relationships.
 - Situational contexts.
@@ -346,8 +346,7 @@ Install the required dependencies:
 ```bash
 python -m pip install -r requirements.txt
 ```
-**At this point it is possible to run the dashboard locally since the processed data is included in the repository. To so so please skip to step 5 below.
-If you want to create the processed data locally first, please continue to step 3.**
+**At this point the dashboard can be run locally because the six required processed CSV files are included in the repository. To launch it directly, skip to Step 5. To regenerate the processed datasets from the original UNODC data, complete Steps 3 and 4 first.**
 
 ### Step 3 — Obtain the Original UNODC Data
 
@@ -432,7 +431,7 @@ It can therefore be used as a **preliminary guide for selecting potentially info
 
 **[View the Homicide Data Availability Table](outputs/tables/homicide_availability.csv)**
 
-The code used to generate the table is available in:
+To regenerate the availability table, obtain the original UNODC workbook and execute all cells available in:
 
 **[Data Availability Analysis Notebook](src/availability.ipynb)**
 
@@ -456,7 +455,7 @@ The limitations of this approach are discussed below.
 
 ---
 
-## 8. Limitations and Future Improvements
+## 8. Limitations
 
 ### 8.1 Uneven Data Availability
 
