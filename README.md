@@ -15,19 +15,19 @@ The Beyond the Yellow Tape dashboard is publicly accessible through the link bel
 
 [https://beyond-the-yellow-tape.streamlit.app/](https://beyond-the-yellow-tape.streamlit.app/)
 
+**To reproduce the analysis and run the Streamlit dashboard locally please refer to section 6: Setup and Execution**
+
 The dashboard allows users to explore global intentional homicide patterns between 2015 and 2024 without downloading the repository or installing Python.
 
 Users can interact with two main sections:
 
-Global Overview: Explore the geographic distribution of homicide rates, country rankings and historical trends.
+**Global Overview:** Explore the geographic distribution of homicide rates, country rankings and historical trends.
 
-Compare Countries: Identify countries with similar homicide rates and examine differences in recorded victim characteristics, mechanisms of killing and situational contexts.
+**Compare Countries:** Identify countries with similar homicide rates and examine differences in recorded victim characteristics, mechanisms of killing and situational contexts.
 
 For more informed country comparisons, users are encouraged to consult the Data Availability Table, which identifies the number of reported subcategories for each country and year.
 
 The table is a preliminary screening tool and does not guarantee complete or directly comparable category-level reporting.
-
-**To reproduce the analysis and run the Streamlit dashboard locally please refer to point number 6.**
 
 ---
 
@@ -88,8 +88,10 @@ The underlying dataset also contains additional information not incorporated int
 ### Data Access and Redistribution
 
 The original UNODC workbook is obtained from the public data portal and stored locally under `data/raw/`.
-
 The repository does not require redistribution of the original workbook. Users wishing to reproduce the analysis should obtain the dataset directly from UNODC and consult the source's applicable usage and attribution terms.
+
+Six processed CSV files derived from the source dataset are included in the repository to support the public Streamlit dashboard. These contain the cleaned and restructured observations required for the application's visualisations.
+The processing code is provided in src/wrangle.py to document the transformations applied to the original data.
 
 ---
 
@@ -251,7 +253,7 @@ The project is organised as follows:
 │   └── availability.ipynb
 │
 ├── data/
-│   ├── raw/
+│   ├── raw/                     # Local only (not tracked)
 │   │   └── total_count_intentional_homicide.xlsx
 │   │
 │   └── processed/
@@ -267,7 +269,8 @@ The project is organised as follows:
     ├── tables/
     │   └── homicide_availability.csv
     └── presentation/
-        └── Final presentation (PDF)
+        # DS608_final_presentation.pdf
+
 ```
 
 **Directory descriptions:**
@@ -282,14 +285,19 @@ The project is organised as follows:
 - `outputs/presentation/`: Final project presentation in PDF format.
 - `AI_USAGE.md`: Documentation of generative AI assistance.
 - `CONTRIBUTIONS.md`: Documentation of group-member contributions.
+- 
+### Data Storage and Repository Tracking
 
-The raw and processed datasets are local working files and are excluded from normal Git tracking under the project's `.gitignore` configuration.
+The original UNODC Excel dataset is stored locally in `data/raw/` and is not included in the GitHub repository.
+The six processed CSV files required by the Streamlit dashboard are included in `data/processed/` and committed to GitHub to support deployment through Streamlit Community Cloud.
+Although both `data/raw/` and `data/processed/` are listed in `.gitignore`, the six required processed CSVs have been explicitly added to Git tracking. Other untracked files in these directories remain ignored.
+The preprocessing script also generates `coverage.csv`, which contains diagnostic information about reporting coverage. This file is not required by the dashboard and is not included in the repository.
 
 ---
 
 ## 6. Setup and Execution
 
-The following instructions describe how to reproduce the analysis and run the Streamlit dashboard locally.
+The following instructions describe how to reproduce the analysis and run the Streamlit dashboard locally. This also includes how to produce processed dataset locally.
 
 ### Step 1 — Clone the Repository
 
@@ -338,6 +346,8 @@ Install the required dependencies:
 ```bash
 python -m pip install -r requirements.txt
 ```
+**At this point it is possible to run the dashboard locally since the processed data is included in the repository. To so so please skip to step 5 below.
+If you want to create the processed data locally first, please continue to step 3.**
 
 ### Step 3 — Obtain the Original UNODC Data
 
@@ -376,8 +386,7 @@ data/processed/citizenship.csv
 
 These files must be present for the relevant dashboard visualisations to function.
 
-### Step 5 — Run the Streamlit Dashboard
-The public link to run the dashboard is: 
+### Step 5 — Run the Streamlit Dashboard locally
 
 To run the dashboard locally, from the repository root, execute:
 
@@ -498,6 +507,7 @@ The project consists of the following deliverables:
 |---|---|---|
 | Streamlit dashboard | Interactive exploration of global homicide patterns and country profiles | `app.py` |
 | Data preprocessing | Cleaning and restructuring of the UNODC dataset | `src/wrangle.py` |
+| Processed datasets | Six cleaned and restructured CSV files required for the dashboard, included in the repository for public deployment | `data/processed/` |
 | Data availability analysis | Country-year assessment of reported subcategories | `src/availability.ipynb` |
 | Availability table | Supporting CSV for identifying potentially informative comparisons | [`outputs/tables/homicide_availability.csv`](outputs/tables/homicide_availability.csv) |
 | Presentation | Summary of project motivation, methodology, findings and limitations (PDF) | [`outputs/presentation/DS608_final_presentation.pdf`](outputs/presentation/DS608_final_presentation.pdf) |
@@ -508,18 +518,15 @@ The project consists of the following deliverables:
 
 ## 10. Reproducibility and Repository Management
 
-The repository uses Git and GitHub for version control and collaboration.
+The project uses Git and GitHub for version control, collaboration and source-code documentation.
+To support public deployment through Streamlit Community Cloud, the six processed CSV files required by the dashboard are committed to the repository under `data/processed/`.
+These files enable users to run the application directly without downloading or preprocessing the original UNODC dataset.
+The original UNODC Excel workbook is not included in the repository. Users wishing to reproduce the full data-processing pipeline can obtain the source data from the UNODC Data Portal and execute `src/wrangle.py` using the instructions provided above.
+The `.gitignore` configuration excludes the original raw data, virtual environments, Python caches, temporary files and untracked generated data. Although `data/processed/` is listed in `.gitignore`, the six CSV files required by the dashboard have been explicitly committed and remain tracked by Git.
 
-The `.gitignore` configuration excludes local development files such as virtual environments, Python caches and temporary files. The original and processed data directories are also excluded from normal Git tracking.
-
-Consequently, users cloning the repository should obtain the original UNODC data and run the preprocessing code before launching the dashboard.
-
-The availability-analysis notebook and its supporting output are included to document the project's response to inconsistent subcategory reporting.
-
-The intention is to make the analytical workflow transparent while avoiding unnecessary duplication of the original data source.
-
-Users should consult the original UNODC documentation and applicable reuse conditions when reproducing or extending the analysis.
-
+Other locally generated datasets, including `coverage.csv`, are not required for the public dashboard and remain excluded from the repository.
+The data availability analysis is documented separately through `src/availability.ipynb`, with its resulting CSV provided under `outputs/tables/`.
+This arrangement balances reproducibility, repository size and ease of deployment by providing the datasets necessary to operate the dashboard while retaining the original preprocessing code for users who wish to reproduce the analysis.
 ---
 
 ## 11. AI Usage and Group Contributions
