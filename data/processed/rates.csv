@@ -1,0 +1,1281 @@
+Iso3_code,Country,Region,Subregion,Year,Count,Rate,Was_Imputed_Count,Was_Imputed_Rate,Was_Imputed
+AFG,Afghanistan,Asia,Southern Asia,2015,3367.0,9.95218590955213,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2016,2318.0,6.6799974594108,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2017,2424.0,6.79202120758186,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2018,2474.0,6.73324816708819,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2019,2712.0,7.16396695794585,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2020,2570.0,6.57810893906391,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2021,1613.0,4.0324584656778,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2022,1673.0,4.12283820223357,False,False,False
+AFG,Afghanistan,Asia,Southern Asia,2023,1751.0,4.22388154644047,False,False,False
+AGO,Angola,Africa,Sub-Saharan Africa,2015,1254.0,4.45347324389499,False,False,False
+AGO,Angola,Africa,Sub-Saharan Africa,2016,1196.0,4.09826656345614,False,False,False
+ALB,Albania,Europe,Southern Europe,2015,64.0,2.20793808941597,False,False,False
+ALB,Albania,Europe,Southern Europe,2016,79.0,2.72614352662554,False,False,False
+ALB,Albania,Europe,Southern Europe,2017,58.0,2.00121280396654,False,False,False
+ALB,Albania,Europe,Southern Europe,2018,66.0,2.28039848927055,False,False,False
+ALB,Albania,Europe,Southern Europe,2019,65.0,2.25302550996799,False,False,False
+ALB,Albania,Europe,Southern Europe,2020,61.0,2.12398982086583,False,False,False
+ALB,Albania,Europe,Southern Europe,2021,66.0,2.31608568885389,False,False,False
+ALB,Albania,Europe,Southern Europe,2022,48.0,1.6975478920699,False,False,False
+ALB,Albania,Europe,Southern Europe,2023,39.0,1.38708340817063,False,False,False
+ALB,Albania,Europe,Southern Europe,2024,49.0,1.75516237132466,False,False,False
+AND,Andorra,Europe,Southern Europe,2015,0.0,0.0,False,False,False
+AND,Andorra,Europe,Southern Europe,2020,2.0,2.58464719565779,False,False,False
+ARE,United Arab Emirates,Asia,Western Asia,2015,60.0,0.691671912805994,False,False,False
+ARE,United Arab Emirates,Asia,Western Asia,2019,64.0,0.68245938100401,False,False,False
+ARE,United Arab Emirates,Asia,Western Asia,2020,65.0,0.687938137215929,False,False,False
+ARE,United Arab Emirates,Asia,Western Asia,2021,44.0,0.44948191080481,False,False,False
+ARE,United Arab Emirates,Asia,Western Asia,2022,71.0,0.693218125037315,False,False,False
+ARE,United Arab Emirates,Asia,Western Asia,2023,55.0,0.516816212919259,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2015,2837.0,6.52528743235621,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2016,2625.0,5.97945616037571,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2017,2317.0,5.23155985787317,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2018,2384.0,5.33872203870925,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2019,2308.0,5.13191495105041,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2020,2419.0,5.35272149985868,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2021,2094.0,4.62126366336244,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2022,1958.0,4.31202462020709,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2023,2047.0,4.49510732711059,False,False,False
+ARG,Argentina,Americas,Latin America and the Caribbean,2024,1802.0,3.94343865969129,False,False,False
+ARM,Armenia,Asia,Western Asia,2015,75.0,2.56745781452856,False,False,False
+ARM,Armenia,Asia,Western Asia,2016,87.0,2.98068464955971,False,False,False
+ARM,Armenia,Asia,Western Asia,2017,70.0,2.40140228170953,False,False,False
+ARM,Armenia,Asia,Western Asia,2018,50.0,1.71823401969337,False,False,False
+ARM,Armenia,Asia,Western Asia,2019,73.0,2.51379877522903,False,False,False
+ARM,Armenia,Asia,Western Asia,2020,75.0,2.59435451162573,False,False,False
+ARM,Armenia,Asia,Western Asia,2021,90.0,3.13550776151398,False,False,False
+ARM,Armenia,Asia,Western Asia,2022,79.0,2.74222289100063,False,False,False
+ARM,Armenia,Asia,Western Asia,2023,65.0,2.20833575400906,False,False,False
+ARM,Armenia,Asia,Western Asia,2024,65.0,2.18572583163085,False,False,False
+ASM,American Samoa,Oceania,Polynesia,2015,4.0,7.56458262415371,False,False,False
+ASM,American Samoa,Oceania,Polynesia,2016,0.0,0.0,False,False,False
+ASM,American Samoa,Oceania,Polynesia,2017,7.0,13.5695731399992,False,False,False
+ASM,American Samoa,Oceania,Polynesia,2018,13.0,25.5360106858383,False,False,False
+ASM,American Samoa,Oceania,Polynesia,2019,0.0,0.0,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2017,20.0,22.1072644470973,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2018,12.0,13.1975452565823,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2019,3.0,3.28358699042834,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2020,9.0,9.79901138862879,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2021,16.0,17.3255801362224,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2022,10.0,10.771219302025,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2023,10.0,10.7163332993983,False,False,False
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,2024,12.0,12.7970652063793,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2015,236.0,0.985468432815397,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2016,227.0,0.933005940041915,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2017,208.0,0.841048385412525,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2018,221.0,0.879787384450029,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2019,225.0,0.882951478402183,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2020,221.0,0.858459424254959,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2021,193.0,0.743554074825619,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2022,220.0,0.839663105025691,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2023,222.0,0.839283805104086,False,False,False
+AUS,Australia,Oceania,Australia and New Zealand,2024,252.0,0.943353670965352,False,False,False
+AUT,Austria,Europe,Western Europe,2015,44.0,0.509021333026224,False,False,False
+AUT,Austria,Europe,Western Europe,2016,54.0,0.617996363091403,False,False,False
+AUT,Austria,Europe,Western Europe,2017,70.0,0.795565065715095,False,False,False
+AUT,Austria,Europe,Western Europe,2018,86.0,0.972669073494819,False,False,False
+AUT,Austria,Europe,Western Europe,2019,77.0,0.86703158562286,False,False,False
+AUT,Austria,Europe,Western Europe,2020,65.0,0.728584791296886,False,False,False
+AUT,Austria,Europe,Western Europe,2021,65.0,0.724875548626241,False,False,False
+AUT,Austria,Europe,Western Europe,2022,79.0,0.871514782049046,False,False,False
+AUT,Austria,Europe,Western Europe,2023,80.0,0.876191031111463,False,False,False
+AUT,Austria,Europe,Western Europe,2024,90.0,0.986754141324902,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2015,211.0,2.16347016513122,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2016,169.0,1.71253212771072,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2017,182.0,1.82574937607272,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2018,197.0,1.96219351122527,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2019,168.0,1.66164299896889,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2020,219.0,2.15091148557269,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2021,197.0,1.92488634254545,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2022,207.0,2.01062542689366,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2023,223.0,2.16122820563689,False,False,False
+AZE,Azerbaijan,Asia,Western Asia,2024,206.0,1.9929227057989,False,False,False
+BDI,Burundi,Africa,Sub-Saharan Africa,2015,461.0,4.17285957648643,False,False,False
+BDI,Burundi,Africa,Sub-Saharan Africa,2016,635.0,5.64974214487878,False,False,False
+BEL,Belgium,Europe,Western Europe,2021,125.0,1.08030153549307,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2015,4035.0,2.53163478437081,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2016,3591.0,2.23304324758363,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2017,3549.0,2.18822635384583,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2018,3830.0,2.34217668208578,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2019,3684.5,2.2351418742346,True,True,True
+BGD,Bangladesh,Asia,Southern Asia,2020,3539.0,2.12810706638342,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2021,3214.0,1.91698792741066,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2022,3126.0,1.84550101345369,False,False,False
+BGD,Bangladesh,Asia,Southern Asia,2023,3023.0,1.76302155884348,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2015,126.0,1.75548173553612,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2016,79.0,1.10839328712128,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2017,103.0,1.45569963291636,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2018,92.0,1.30965598682543,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2019,83.0,1.18988414972527,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2020,69.0,0.995146569224991,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2021,89.0,1.29412653402161,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2022,76.0,1.11341216291447,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2023,74.0,1.08890737415431,False,False,False
+BGR,Bulgaria,Europe,Eastern Europe,2024,79.0,1.16903879188868,False,False,False
+BHR,Bahrain,Asia,Western Asia,2015,3.0,0.219034059796298,False,False,False
+BHR,Bahrain,Asia,Western Asia,2016,4.0,0.279797762177498,False,False,False
+BHR,Bahrain,Asia,Western Asia,2017,6.0,0.40485966551844,False,False,False
+BHR,Bahrain,Asia,Western Asia,2018,5.0,0.333861836620704,False,False,False
+BHR,Bahrain,Asia,Western Asia,2019,4.0,0.269238704006036,False,False,False
+BHR,Bahrain,Asia,Western Asia,2020,0.0,0.0,False,False,False
+BHR,Bahrain,Asia,Western Asia,2021,1.0,0.0665883809268237,False,False,False
+BHR,Bahrain,Asia,Western Asia,2022,3.0,0.195636140255462,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2015,146.0,37.8879787412108,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2016,111.0,28.6041558488412,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2017,122.0,31.2431975620062,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2018,91.0,23.1718729111893,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2019,95.0,24.0704681959437,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2020,73.0,18.4407464713126,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2021,119.0,30.0222265391437,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2022,128.0,32.1981392997156,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2023,110.0,27.5385195041564,False,False,False
+BHS,Bahamas,Americas,Latin America and the Caribbean,2024,120.0,29.9040826548845,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2015,57.0,1.61998987932639,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2016,45.0,1.29570864177198,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2017,42.0,1.22496031638975,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2018,39.0,1.15146147032772,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2019,42.0,1.25540534198886,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2020,43.0,1.3032872085846,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2021,32.0,0.986160622452258,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2022,35.0,1.09211115070447,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2023,39.0,1.22446173133237,False,False,False
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,2024,31.0,0.979694101577845,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2015,326.0,3.43617510284546,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2016,307.0,3.23189754442635,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2017,240.0,2.5274359757027,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2018,226.0,2.38395844908102,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2019,225.0,2.38463165310244,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2020,239.0,2.5558916832354,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2021,225.0,2.43207353725639,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2022,181.0,1.97313118586165,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2023,168.0,1.84297825285662,False,False,False
+BLR,Belarus,Europe,Eastern Europe,2024,139.0,1.53477603753068,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2015,119.0,33.3957281531601,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2016,138.0,37.8388012229062,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2017,142.0,38.0491503919464,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2018,143.0,37.609161907442,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2019,134.0,34.7304566666278,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2020,102.0,26.0995390360826,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2021,125.0,31.6178339760185,False,False,False
+BLZ,Belize,Americas,Latin America and the Caribbean,2022,113.0,28.0582917218107,False,False,False
+BMU,Bermuda,Americas,Northern America,2015,4.0,6.30283548811522,False,False,False
+BMU,Bermuda,Americas,Northern America,2016,8.0,12.6086511107434,False,False,False
+BMU,Bermuda,Americas,Northern America,2017,5.0,7.86429374710004,False,False,False
+BMU,Bermuda,Americas,Northern America,2018,5.0,7.83318450282778,False,False,False
+BMU,Bermuda,Americas,Northern America,2019,0.0,0.0,False,False,False
+BMU,Bermuda,Americas,Northern America,2020,7.0,10.8726041440154,False,False,False
+BMU,Bermuda,Americas,Northern America,2021,7.0,10.8278678381388,False,False,False
+BMU,Bermuda,Americas,Northern America,2022,9.0,13.8999359058511,False,False,False
+BMU,Bermuda,Americas,Northern America,2023,4.0,6.18257133141674,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2015,543.0,4.92977342561603,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2016,642.0,5.74238712195448,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2017,747.0,6.58463782839173,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2018,574.0,4.98767505522938,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2019,497.0,4.25827764835632,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2020,428.0,3.62211536699793,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2021,418.0,3.50161189331694,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2022,485.0,4.01584677979597,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2023,541.0,4.41843313132273,False,False,False
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,2024,453.0,3.64930721567929,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2015,58184.0,28.8503019791216,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2016,61208.0,30.1193623667804,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2017,63788.0,31.1611756216413,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2018,55980.0,27.1606152370358,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2019,44073.0,21.2445602088385,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2020,47722.0,22.8706064004318,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2021,45562.0,21.7427516470103,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2022,44367.0,21.0963608054856,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2023,43443.0,20.5753765300299,False,False,False
+BRA,Brazil,Americas,Latin America and the Caribbean,2024,39625.0,18.6911635044563,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2015,31.0,11.1115093730958,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2016,22.0,7.86845375942203,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2017,30.0,10.7077463406277,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2018,28.0,9.9746892260888,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2019,48.0,17.0692460193985,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2020,41.0,14.5545939268294,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2021,32.0,11.3416257157186,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2022,43.0,15.2310515092909,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2023,21.0,7.43794627677661,False,False,False
+BRB,Barbados,Americas,Latin America and the Caribbean,2024,21.0,7.43448361315904,False,False,False
+BTN,Bhutan,Asia,Southern Asia,2015,12.0,1.62026847848689,False,False,False
+BTN,Bhutan,Asia,Southern Asia,2016,9.0,1.20342414282773,False,False,False
+BTN,Bhutan,Asia,Southern Asia,2017,13.0,1.72337338408889,False,False,False
+BTN,Bhutan,Asia,Southern Asia,2018,9.0,1.18458616482332,False,False,False
+BTN,Bhutan,Asia,Southern Asia,2019,8.0,1.04599228057697,False,False,False
+BTN,Bhutan,Asia,Southern Asia,2020,19.0,2.46751324015657,False,False,False
+BWA,Botswana,Africa,Sub-Saharan Africa,2020,221.0,9.3410798076921,False,False,False
+BWA,Botswana,Africa,Sub-Saharan Africa,2021,273.0,11.3681767255945,False,False,False
+BWA,Botswana,Africa,Sub-Saharan Africa,2022,319.0,13.0743518717943,False,False,False
+BWA,Botswana,Africa,Sub-Saharan Africa,2023,322.0,12.9825910308439,False,False,False
+CAN,Canada,Americas,Northern America,2015,611.0,1.69900457240782,False,False,False
+CAN,Canada,Americas,Northern America,2016,616.0,1.69447965211893,False,False,False
+CAN,Canada,Americas,Northern America,2017,665.0,1.80664809278477,False,False,False
+CAN,Canada,Americas,Northern America,2018,662.0,1.77503663024043,False,False,False
+CAN,Canada,Americas,Northern America,2019,689.0,1.82357460879594,False,False,False
+CAN,Canada,Americas,Northern America,2020,765.0,2.00409191032713,False,False,False
+CAN,Canada,Americas,Northern America,2021,801.0,2.08300518200199,False,False,False
+CAN,Canada,Americas,Northern America,2022,885.0,2.27967877085079,False,False,False
+CAN,Canada,Americas,Northern America,2023,796.0,2.02549144599465,False,False,False
+CAN,Canada,Americas,Northern America,2024,788.0,1.98276753585526,False,False,False
+CHE,Switzerland,Europe,Western Europe,2015,57.0,0.688078876533782,False,False,False
+CHE,Switzerland,Europe,Western Europe,2016,45.0,0.537319784436855,False,False,False
+CHE,Switzerland,Europe,Western Europe,2017,45.0,0.532315829369355,False,False,False
+CHE,Switzerland,Europe,Western Europe,2018,50.0,0.587106357663197,False,False,False
+CHE,Switzerland,Europe,Western Europe,2019,46.0,0.53628529631628,False,False,False
+CHE,Switzerland,Europe,Western Europe,2020,47.0,0.543944872228796,False,False,False
+CHE,Switzerland,Europe,Western Europe,2021,42.0,0.482369204585241,False,False,False
+CHE,Switzerland,Europe,Western Europe,2022,42.0,0.477697117734824,False,False,False
+CHE,Switzerland,Europe,Western Europe,2023,53.0,0.597481940544685,False,False,False
+CHE,Switzerland,Europe,Western Europe,2024,45.0,0.504372291310641,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2015,419.0,2.32163505387454,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2016,620.0,3.39405749254204,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2017,779.0,4.19745439747334,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2018,825.0,4.36665251518391,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2019,924.0,4.81306553520039,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2020,1115.0,5.75613878004137,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2021,906.0,4.65658124495601,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2022,1330.0,6.80201256720408,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2023,1249.0,6.35337750176956,False,False,False
+CHL,Chile,Americas,Latin America and the Caribbean,2024,1207.0,6.10682496379986,False,False,False
+CHN,China,Asia,Eastern Asia,2015,9200.0,0.658962453224414,False,False,False
+CHN,China,Asia,Eastern Asia,2016,8634.0,0.614934212808057,False,False,False
+CHN,China,Asia,Eastern Asia,2017,7990.0,0.565721900260259,False,False,False
+CHN,China,Asia,Eastern Asia,2018,7525.0,0.530299683323493,False,False,False
+CHN,China,Asia,Eastern Asia,2019,7379.0,0.518362801144556,False,False,False
+CHN,China,Asia,Eastern Asia,2020,7157.0,0.5018560705357,False,False,False
+CMR,Cameroon,Africa,Sub-Saharan Africa,2015,861.0,3.78238510747147,False,False,False
+CMR,Cameroon,Africa,Sub-Saharan Africa,2016,787.0,3.35548128633803,False,False,False
+CMR,Cameroon,Africa,Sub-Saharan Africa,2017,1004.0,4.16103693703584,False,False,False
+CMR,Cameroon,Africa,Sub-Saharan Africa,2018,1070.0,4.302670701842623,True,True,True
+CMR,Cameroon,Africa,Sub-Saharan Africa,2019,1136.0,4.444304466649407,True,True,True
+CMR,Cameroon,Africa,Sub-Saharan Africa,2020,1202.0,4.58593823145619,False,False,False
+CMR,Cameroon,Africa,Sub-Saharan Africa,2021,1535.0,5.67301371241287,True,True,True
+CMR,Cameroon,Africa,Sub-Saharan Africa,2022,1868.0,6.76008919336955,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2015,12783.0,27.2152782480106,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2016,12402.0,26.1438669043183,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2017,12298.0,25.5510587151196,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2018,11678.0,23.8207594532571,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2019,11678.0,23.3990612924966,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2020,11464.0,22.6427030734102,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2021,13094.0,25.5801274097033,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2022,12908.0,24.9488076386337,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2023,13035.0,24.9134420347488,False,False,False
+COL,Colombia,Americas,Latin America and the Caribbean,2024,12880.0,24.3541040593574,False,False,False
+CPV,Cabo Verde,Africa,Sub-Saharan Africa,2015,46.0,8.97747531926147,False,False,False
+CPV,Cabo Verde,Africa,Sub-Saharan Africa,2016,62.0,12.0962746400627,False,False,False
+CPV,Cabo Verde,Africa,Sub-Saharan Africa,2017,38.0,7.40895274452956,False,False,False
+CPV,Cabo Verde,Africa,Sub-Saharan Africa,2018,31.0,6.03800044798068,False,False,False
+CPV,Cabo Verde,Africa,Sub-Saharan Africa,2019,33.0,6.41893469025722,False,False,False
+CPV,Cabo Verde,Africa,Sub-Saharan Africa,2020,36.0,6.99464423976475,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2015,557.0,11.5607212354156,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2016,578.0,11.8759050112518,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2017,603.0,12.2731177810203,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2018,585.0,11.7995456872358,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2019,563.0,11.2610056078008,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2020,570.0,11.3222838436969,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2021,588.0,11.6205820666553,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2022,656.0,12.908902016219,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2023,905.0,17.7258932503618,False,False,False
+CRI,Costa Rica,Americas,Latin America and the Caribbean,2024,878.0,17.1153100151855,False,False,False
+CUB,Cuba,Americas,Latin America and the Caribbean,2015,619.0,5.4899907667934,False,False,False
+CUB,Cuba,Americas,Latin America and the Caribbean,2016,572.0,5.0773983694805,False,False,False
+CUB,Cuba,Americas,Latin America and the Caribbean,2017,516.0,4.58755196224978,False,False,False
+CUB,Cuba,Americas,Latin America and the Caribbean,2018,491.0,4.37333981763351,False,False,False
+CUB,Cuba,Americas,Latin America and the Caribbean,2019,500.0,4.46315139638841,False,False,False
+CYM,Cayman Islands,Americas,Latin America and the Caribbean,2017,3.0,4.64860425657196,False,False,False
+CYM,Cayman Islands,Americas,Latin America and the Caribbean,2018,7.0,10.6156307580319,False,False,False
+CYM,Cayman Islands,Americas,Latin America and the Caribbean,2019,2.0,2.97057644035825,False,False,False
+CYM,Cayman Islands,Americas,Latin America and the Caribbean,2020,3.0,4.3677976836113,False,False,False
+CYP,Cyprus,Asia,Western Asia,2015,15.0,1.2300107871946,False,False,False
+CYP,Cyprus,Asia,Western Asia,2016,13.0,1.05083409956653,False,False,False
+CYP,Cyprus,Asia,Western Asia,2017,7.0,0.558091105183829,False,False,False
+CYP,Cyprus,Asia,Western Asia,2018,15.0,1.18041688389616,False,False,False
+CYP,Cyprus,Asia,Western Asia,2019,15.0,1.16579872951254,False,False,False
+CYP,Cyprus,Asia,Western Asia,2020,15.0,1.15185477415008,False,False,False
+CYP,Cyprus,Asia,Western Asia,2021,16.0,1.21459779542909,False,False,False
+CYP,Cyprus,Asia,Western Asia,2022,8.0,0.600884802872229,False,False,False
+CYP,Cyprus,Asia,Western Asia,2023,11.0,0.81785876397005,False,False,False
+CYP,Cyprus,Asia,Western Asia,2024,13.0,0.957091384557846,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2015,88.0,0.836150868791633,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2016,65.0,0.617169777139044,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2017,66.0,0.626106269301682,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2018,78.5,0.744133559572974,True,True,True
+CZE,Czechia,Europe,Eastern Europe,2019,91.0,0.862160849844266,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2020,77.0,0.729848861096918,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2021,47.0,0.44631485186264,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2022,87.0,0.81512474266184,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2023,83.0,0.767827757917044,False,False,False
+CZE,Czechia,Europe,Eastern Europe,2024,66.0,0.614762172267724,False,False,False
+DEU,Germany,Europe,Western Europe,2015,682.0,0.83092148321361,False,False,False
+DEU,Germany,Europe,Western Europe,2016,963.0,1.163604165425,False,False,False
+DEU,Germany,Europe,Western Europe,2017,813.0,0.97829217789703,False,False,False
+DEU,Germany,Europe,Western Europe,2018,788.0,0.945201062768242,False,False,False
+DEU,Germany,Europe,Western Europe,2019,623.0,0.745579302641966,False,False,False
+DEU,Germany,Europe,Western Europe,2020,782.0,0.935085587265765,False,False,False
+DEU,Germany,Europe,Western Europe,2021,695.0,0.830375419597212,False,False,False
+DEU,Germany,Europe,Western Europe,2022,686.0,0.815829208272123,False,False,False
+DEU,Germany,Europe,Western Europe,2023,770.0,0.910722780231795,False,False,False
+DEU,Germany,Europe,Western Europe,2024,779.0,0.921323883995885,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2015,9.0,12.7822752449936,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2016,16.0,22.9863590325616,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2017,19.0,27.7386435803289,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2018,13.0,19.0687133752356,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2019,13.0,19.151302656875,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2020,15.0,22.1982152634928,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2021,10.0,14.8805095086456,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2022,19.0,28.4318346763634,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2023,18.0,27.063396005142,False,False,False
+DMA,Dominica,Americas,Latin America and the Caribbean,2024,12.0,18.1255192206027,False,False,False
+DNK,Denmark,Europe,Northern Europe,2015,62.0,1.09083852229384,False,False,False
+DNK,Denmark,Europe,Northern Europe,2016,56.0,0.977619325858153,False,False,False
+DNK,Denmark,Europe,Northern Europe,2017,71.0,1.23153392928012,False,False,False
+DNK,Denmark,Europe,Northern Europe,2018,58.0,1.00106587626187,False,False,False
+DNK,Denmark,Europe,Northern Europe,2019,50.0,0.859901642730301,False,False,False
+DNK,Denmark,Europe,Northern Europe,2020,48.0,0.823111601929511,False,False,False
+DNK,Denmark,Europe,Northern Europe,2021,37.0,0.631746832067094,False,False,False
+DNK,Denmark,Europe,Northern Europe,2022,58.0,0.982567307766424,False,False,False
+DNK,Denmark,Europe,Northern Europe,2023,50.0,0.840599404536194,False,False,False
+DNK,Denmark,Europe,Northern Europe,2024,50.0,0.836482410782459,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2016,1616.0,15.3154603364407,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2017,1216.0,11.3998115468654,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2018,1068.0,9.90534873528498,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2019,1026.0,9.41799066618377,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2020,961.0,8.72977662309348,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2021,1172.0,10.5362752855436,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2022,1389.0,12.3678475675698,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2023,1237.0,10.9166976980638,False,False,False
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,2024,1042.0,9.11830936393492,False,False,False
+DZA,Algeria,Africa,Northern Africa,2015,546.0,1.36433389808261,False,False,False
+DZA,Algeria,Africa,Northern Africa,2016,542.0,1.32678196793638,False,False,False
+DZA,Algeria,Africa,Northern Africa,2017,524.0,1.25691727270348,False,False,False
+DZA,Algeria,Africa,Northern Africa,2018,568.0,1.33631227453406,False,False,False
+DZA,Algeria,Africa,Northern Africa,2019,519.0,1.19876531330297,False,False,False
+DZA,Algeria,Africa,Northern Africa,2020,654.0,1.48494311952627,False,False,False
+DZA,Algeria,Africa,Northern Africa,2021,695.0,1.55268752449532,False,False,False
+DZA,Algeria,Africa,Northern Africa,2022,795.0,1.74812144835182,False,False,False
+DZA,Algeria,Africa,Northern Africa,2023,536.0,1.16107238811947,False,False,False
+DZA,Algeria,Africa,Northern Africa,2024,647.0,1.38205611607093,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2015,1050.0,6.45509329915208,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2016,959.0,5.81031174018927,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2017,970.0,5.78775543057783,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2018,996.0,5.84179761027661,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2019,1189.0,6.85696958334221,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2020,1372.0,7.81941728300383,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2021,2495.0,14.1100320659669,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2022,4886.0,27.4126359684417,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2023,8248.0,45.8729806753395,False,False,False
+ECU,Ecuador,Americas,Latin America and the Caribbean,2024,7062.0,38.9402484715387,False,False,False
+EGY,Egypt,Africa,Northern Africa,2015,1711.0,1.71791733156895,False,False,False
+EGY,Egypt,Africa,Northern Africa,2016,1532.0,1.50721254822527,False,False,False
+EGY,Egypt,Africa,Northern Africa,2017,1360.0,1.31152527182627,False,False,False
+ESP,Spain,Europe,Southern Europe,2015,302.0,0.646906930185419,False,False,False
+ESP,Spain,Europe,Southern Europe,2016,294.0,0.629108853827649,False,False,False
+ESP,Spain,Europe,Southern Europe,2017,307.0,0.655022828665732,False,False,False
+ESP,Spain,Europe,Southern Europe,2018,289.0,0.613681647994712,False,False,False
+ESP,Spain,Europe,Southern Europe,2019,331.0,0.69779523479218,False,False,False
+ESP,Spain,Europe,Southern Europe,2020,331.0,0.69421884953507,False,False,False
+ESP,Spain,Europe,Southern Europe,2021,290.0,0.607512242916661,False,False,False
+ESP,Spain,Europe,Southern Europe,2022,325.0,0.679512839473507,False,False,False
+ESP,Spain,Europe,Southern Europe,2023,331.0,0.690855954769765,False,False,False
+ESP,Spain,Europe,Southern Europe,2024,349.0,0.728441170438818,False,False,False
+EST,Estonia,Europe,Northern Europe,2015,45.0,3.42315697228612,False,False,False
+EST,Estonia,Europe,Northern Europe,2016,33.0,2.50788654321279,False,False,False
+EST,Estonia,Europe,Northern Europe,2017,29.0,2.2012646645026,False,False,False
+EST,Estonia,Europe,Northern Europe,2018,28.0,2.11805990251629,False,False,False
+EST,Estonia,Europe,Northern Europe,2019,26.0,1.95957029638124,False,False,False
+EST,Estonia,Europe,Northern Europe,2020,42.0,3.1586796568621,False,False,False
+EST,Estonia,Europe,Northern Europe,2021,26.0,1.95231911106406,False,False,False
+EST,Estonia,Europe,Northern Europe,2022,20.0,1.48138107676406,False,False,False
+EST,Estonia,Europe,Northern Europe,2023,21.0,1.53599045052794,False,False,False
+EST,Estonia,Europe,Northern Europe,2024,24.0,1.76399768916303,False,False,False
+FIN,Finland,Europe,Northern Europe,2015,82.0,1.49642750743994,False,False,False
+FIN,Finland,Europe,Northern Europe,2016,74.0,1.34656386925302,False,False,False
+FIN,Finland,Europe,Northern Europe,2017,67.0,1.21632504271661,False,False,False
+FIN,Finland,Europe,Northern Europe,2018,88.0,1.59543516989979,False,False,False
+FIN,Finland,Europe,Northern Europe,2019,81.0,1.46692385524251,False,False,False
+FIN,Finland,Europe,Northern Europe,2020,97.0,1.75419179501202,False,False,False
+FIN,Finland,Europe,Northern Europe,2021,73.0,1.31743389143803,False,False,False
+FIN,Finland,Europe,Northern Europe,2022,72.0,1.29280184094982,False,False,False
+FIN,Finland,Europe,Northern Europe,2023,52.0,0.928374894921798,False,False,False
+FJI,Fiji,Oceania,Melanesia,2015,26.0,2.83046186605819,False,False,False
+FJI,Fiji,Oceania,Melanesia,2016,15.0,1.63191414826049,False,False,False
+FJI,Fiji,Oceania,Melanesia,2017,12.0,1.30611036523744,False,False,False
+FJI,Fiji,Oceania,Melanesia,2018,16.0,1.74447763797728,False,False,False
+FJI,Fiji,Oceania,Melanesia,2019,25.0,2.73254056866355,False,False,False
+FJI,Fiji,Oceania,Melanesia,2020,27.0,2.95093899971911,False,False,False
+FJI,Fiji,Oceania,Melanesia,2021,16.0,1.74537013300811,False,False,False
+FJI,Fiji,Oceania,Melanesia,2022,36.0,3.91550343585426,False,False,False
+FJI,Fiji,Oceania,Melanesia,2023,19.0,2.0559533103824,False,False,False
+FJI,Fiji,Oceania,Melanesia,2024,22.0,2.36868852176609,False,False,False
+FRA,France,Europe,Western Europe,2015,1012.0,1.55892963521539,False,False,False
+FRA,France,Europe,Western Europe,2016,779.0,1.19686224509648,False,False,False
+FRA,France,Europe,Western Europe,2017,710.0,1.08754298245582,False,False,False
+FRA,France,Europe,Western Europe,2018,696.0,1.06227847973755,False,False,False
+FRA,France,Europe,Western Europe,2019,753.0,1.14560504750237,False,False,False
+FRA,France,Europe,Western Europe,2020,692.0,1.04999178555921,False,False,False
+FRA,France,Europe,Western Europe,2021,734.0,1.11071518973766,False,False,False
+FRA,France,Europe,Western Europe,2022,821.0,1.23873280289769,False,False,False
+FRA,France,Europe,Western Europe,2023,887.0,1.33506280409367,False,False,False
+FRA,France,Europe,Western Europe,2024,882.0,1.32534857400044,False,False,False
+FSM,Micronesia (Federated States of),Oceania,Micronesia,2019,1.0,0.906766290056401,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2015,538.0,0.929422409061848,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2016,689.0,1.18017409606244,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2017,698.0,1.18819442026964,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2018,641.0,1.08431231990752,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2019,676.0,1.13728435338991,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2020,555.0,0.929341200572193,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2021,672.0,1.12756320537091,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2022,581.0,0.974872632722743,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2023,566.0,0.930083870066495,False,False,False
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,2024,522.0,,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2015,23.0,1.24215484702323,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2016,19.0,1.02033309042246,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2017,23.0,1.2293982256042,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2018,23.0,1.2223373108898,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2019,29.0,1.53142025498675,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2020,21.0,1.10788125623183,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2021,20.0,1.05088048021034,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2022,26.0,1.36086965852116,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2023,10.0,0.520729729814172,False,False,False
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,2024,19.0,,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2015,59.0,1.09808300763075,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2016,65.0,1.20265694673155,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2017,59.0,1.08759769945436,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2018,64.0,1.17688163145216,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2019,67.0,1.22636501748028,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2020,59.0,1.07939992682034,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2021,53.0,0.967170933776164,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2022,53.0,0.964809890237674,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2023,57.0,1.03823245478224,False,False,False
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,2024,45.0,,False,False,False
+GEO,Georgia,Asia,Western Asia,2016,39.0,1.02846555312855,False,False,False
+GEO,Georgia,Asia,Western Asia,2017,91.0,2.39924552955963,False,False,False
+GEO,Georgia,Asia,Western Asia,2018,89.0,2.34526705345127,False,False,False
+GEO,Georgia,Asia,Western Asia,2019,77.0,2.02806499553233,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2015,525.0,1.82951897503029,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2016,549.0,1.87009855981462,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2017,609.0,2.02943487003652,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2018,500.0,1.63198244300232,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2019,571.0,1.82667713193775,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2020,555.0,1.74047705817606,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2021,603.0,1.85431966533681,False,False,False
+GHA,Ghana,Africa,Sub-Saharan Africa,2022,607.0,1.83111773115644,False,False,False
+GIB,Gibraltar,Europe,Southern Europe,2024,0.0,0.0,False,False,False
+GLP,Guadeloupe,Americas,Latin America and the Caribbean,2015,39.0,9.65464827992539,False,False,False
+GLP,Guadeloupe,Americas,Latin America and the Caribbean,2016,23.0,5.68415615612647,False,False,False
+GNB,Guinea-Bissau,Africa,Sub-Saharan Africa,2016,64.0,3.49365287883821,False,False,False
+GNB,Guinea-Bissau,Africa,Sub-Saharan Africa,2017,21.0,1.11876398954435,False,False,False
+GRC,Greece,Europe,Southern Europe,2015,93.0,0.859447721666469,False,False,False
+GRC,Greece,Europe,Southern Europe,2016,84.0,0.779545903374914,False,False,False
+GRC,Greece,Europe,Southern Europe,2017,86.0,0.799737128265793,False,False,False
+GRC,Greece,Europe,Southern Europe,2018,99.0,0.922574259889262,False,False,False
+GRC,Greece,Europe,Southern Europe,2019,78.0,0.727708640014711,False,False,False
+GRC,Greece,Europe,Southern Europe,2020,78.0,0.72901495405944,False,False,False
+GRC,Greece,Europe,Southern Europe,2021,89.0,0.841244735958326,False,False,False
+GRC,Greece,Europe,Southern Europe,2022,117.0,1.12365161805833,False,False,False
+GRC,Greece,Europe,Southern Europe,2023,86.0,0.839605274224601,False,False,False
+GRC,Greece,Europe,Southern Europe,2024,85.0,0.845954939563237,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2015,6.0,5.23213226830374,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2016,11.0,9.55441674628681,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2017,12.0,10.3951904918658,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2018,12.0,10.3724576674071,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2019,16.0,13.7953035613438,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2020,14.0,12.0335909094816,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2021,5.0,4.28494911622925,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2022,8.0,6.84269499542395,False,False,False
+GRD,Grenada,Americas,Latin America and the Caribbean,2023,16.0,13.6657527694502,False,False,False
+GRL,Greenland,Americas,Northern America,2015,4.0,7.14017957551632,False,False,False
+GRL,Greenland,Americas,Northern America,2016,3.0,5.35131374752502,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2017,5435.0,32.8054740415143,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2018,4869.0,28.9035441420162,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2019,4437.0,25.9415998284592,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2020,3157.0,18.1882859775834,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2021,3563.0,20.2458705569498,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2022,3935.0,22.0474401521257,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2023,4317.0,23.8181445764686,False,False,False
+GTM,Guatemala,Americas,Latin America and the Caribbean,2024,4189.0,22.7584390807546,False,False,False
+GUF,French Guiana,Americas,Latin America and the Caribbean,2018,35.96411,12.8003694456358,False,False,False
+GUF,French Guiana,Americas,Latin America and the Caribbean,2019,37.781709,13.2303721005155,False,False,False
+GUF,French Guiana,Americas,Latin America and the Caribbean,2020,38.69901,13.3880898304997,False,False,False
+GUM,Guam,Oceania,Micronesia,2019,7.0,4.32611490161179,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2015,149.0,19.6367594865976,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2016,142.0,18.5973900789472,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2017,115.0,14.9646346644701,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2018,111.0,14.0230217590554,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2019,136.0,16.8386645453251,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2020,157.0,19.4431699054406,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2021,131.0,16.0641191344505,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2022,131.0,15.94378052595,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2023,158.0,19.1201580922439,False,False,False
+GUY,Guyana,Americas,Latin America and the Caribbean,2024,117.0,14.07795698763,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2015,22.0,0.298652959762826,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2016,28.0,0.377969277712184,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2017,24.0,0.322368700739292,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2018,48.0,0.642467632514136,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2019,24.0,0.320606459178181,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2020,22.0,0.293715731634873,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2021,23.0,0.307297589591109,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2022,30.0,0.401826165982334,False,False,False
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,2023,28.0,0.376205815214825,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2015,5148.0,55.7305404552518,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2016,5150.0,54.7151729955654,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2017,3864.0,40.2998017393682,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2018,3709.0,37.9817721287217,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2019,4078.0,41.0111655865032,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2020,3613.0,35.7028493255269,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2021,3931.0,38.2025965034663,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2022,3659.0,34.9679353875888,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2023,3347.0,31.4424316507577,False,False,False
+HND,Honduras,Americas,Latin America and the Caribbean,2024,2589.0,23.9153049037414,False,False,False
+HRV,Croatia,Europe,Southern Europe,2015,37.0,0.884378611088172,False,False,False
+HRV,Croatia,Europe,Southern Europe,2016,44.0,1.06371572584033,False,False,False
+HRV,Croatia,Europe,Southern Europe,2017,46.0,1.12767209256717,False,False,False
+HRV,Croatia,Europe,Southern Europe,2018,24.0,0.596292847367914,False,False,False
+HRV,Croatia,Europe,Southern Europe,2019,33.0,0.827828171469303,False,False,False
+HRV,Croatia,Europe,Southern Europe,2020,40.0,1.01164453441337,False,False,False
+HRV,Croatia,Europe,Southern Europe,2021,33.0,0.840847880426335,False,False,False
+HRV,Croatia,Europe,Southern Europe,2022,31.0,0.79344217483012,False,False,False
+HRV,Croatia,Europe,Southern Europe,2023,26.0,0.667347104040825,False,False,False
+HRV,Croatia,Europe,Southern Europe,2024,39.0,1.00636720791159,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2015,1071.0,10.1774724071475,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2016,1028.0,9.63317380185292,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2017,885.5,8.205454948302194,True,True,True
+HTI,Haiti,Americas,Latin America and the Caribbean,2018,743.0,6.77773609475147,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2019,1061.5,9.525557195076786,True,True,True
+HTI,Haiti,Americas,Latin America and the Caribbean,2020,1380.0,12.2733782954021,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2021,1615.0,14.1983189542019,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2022,2183.0,18.9766582756746,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2023,4789.0,41.1518089717388,False,False,False
+HTI,Haiti,Americas,Latin America and the Caribbean,2024,7574.0,64.33606564827,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2015,221.0,2.24611505942905,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2016,202.0,2.05901168254688,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2017,160.0,1.63505483999481,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2018,86.0,0.879849987623273,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2019,65.0,0.66527835015882,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2020,80.0,0.820558561392627,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2021,75.0,0.772570691377117,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2022,94.0,0.970642654757226,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2023,70.0,0.722657964901225,False,False,False
+HUN,Hungary,Europe,Eastern Europe,2024,68.0,0.702759970936741,False,False,False
+IDN,Indonesia,Asia,South-eastern Asia,2021,981.0,0.354461230437981,False,False,False
+IDN,Indonesia,Asia,South-eastern Asia,2022,832.0,0.298389134244316,False,False,False
+IDN,Indonesia,Asia,South-eastern Asia,2023,1124.0,0.399729625584053,False,False,False
+IDN,Indonesia,Asia,South-eastern Asia,2024,1176.0,0.414832475557544,False,False,False
+IMN,Isle of Man,Europe,Northern Europe,2015,1.0,1.19627241515438,False,False,False
+IMN,Isle of Man,Europe,Northern Europe,2016,0.0,0.0,False,False,False
+IND,India,Asia,Southern Asia,2015,44373.0,3.341278725169,False,False,False
+IND,India,Asia,Southern Asia,2016,42320.0,3.14894003612781,False,False,False
+IND,India,Asia,Southern Asia,2017,41832.0,3.07665739913599,False,False,False
+IND,India,Asia,Southern Asia,2018,41651.0,3.0299149142336,False,False,False
+IND,India,Asia,Southern Asia,2019,40976.0,2.94997162020176,False,False,False
+IND,India,Asia,Southern Asia,2020,41171.0,2.93529734667461,False,False,False
+IND,India,Asia,Southern Asia,2021,41330.0,2.92249230234054,False,False,False
+IND,India,Asia,Southern Asia,2022,40130.0,2.81530423021647,False,False,False
+IND,India,Asia,Southern Asia,2023,39057.0,2.71593253265609,False,False,False
+IRL,Ireland,Europe,Northern Europe,2015,27.0,0.574164266695474,False,False,False
+IRL,Ireland,Europe,Northern Europe,2016,33.0,0.694224869533058,False,False,False
+IRL,Ireland,Europe,Northern Europe,2017,37.0,0.769189111483671,False,False,False
+IRL,Ireland,Europe,Northern Europe,2018,36.0,0.738832015356213,False,False,False
+IRL,Ireland,Europe,Northern Europe,2019,31.0,0.628358296386879,False,False,False
+IRL,Ireland,Europe,Northern Europe,2020,32.0,0.642234139902479,False,False,False
+IRL,Ireland,Europe,Northern Europe,2021,22.0,0.437512696568737,False,False,False
+IRL,Ireland,Europe,Northern Europe,2022,42.0,0.82191531512967,False,False,False
+IRL,Ireland,Europe,Northern Europe,2023,33.0,0.635026930914843,False,False,False
+IRL,Ireland,Europe,Northern Europe,2024,37.0,0.704088996849202,False,False,False
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,2018,6153.0,18.7508056629688,False,False,False
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,2019,5299.0,15.7340619875722,False,False,False
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,2020,4094.0,11.8465957863679,False,False,False
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,2021,5459.0,15.3974059474885,False,False,False
+ISL,Iceland,Europe,Northern Europe,2015,3.0,0.906477233068894,False,False,False
+ISL,Iceland,Europe,Northern Europe,2016,1.0,0.297997309084299,False,False,False
+ISL,Iceland,Europe,Northern Europe,2017,3.0,0.873282362752761,False,False,False
+ISL,Iceland,Europe,Northern Europe,2018,3.0,0.850210001870462,False,False,False
+ISL,Iceland,Europe,Northern Europe,2019,1.0,0.277239086829896,False,False,False
+ISL,Iceland,Europe,Northern Europe,2020,5.0,1.36383225954273,False,False,False
+ISL,Iceland,Europe,Northern Europe,2021,2.0,0.536705993798362,False,False,False
+ISL,Iceland,Europe,Northern Europe,2022,4.0,1.05164773481651,False,False,False
+ISL,Iceland,Europe,Northern Europe,2023,5.0,1.29013114183057,False,False,False
+ISL,Iceland,Europe,Northern Europe,2024,8.0,2.03357689653288,False,False,False
+ISR,Israel,Asia,Western Asia,2015,120.0,1.49014483400625,False,False,False
+ISR,Israel,Asia,Western Asia,2016,110.0,1.33982857867757,False,False,False
+ISR,Israel,Asia,Western Asia,2017,136.0,1.62644474784814,False,False,False
+ISR,Israel,Asia,Western Asia,2018,124.0,1.45709789694358,False,False,False
+ISR,Israel,Asia,Western Asia,2019,142.0,1.6402012873501,False,False,False
+ISR,Israel,Asia,Western Asia,2020,147.0,1.67038317453709,False,False,False
+ISR,Israel,Asia,Western Asia,2021,173.0,1.9344902218508,False,False,False
+ISR,Israel,Asia,Western Asia,2022,148.0,1.62581066709758,False,False,False
+ISR,Israel,Asia,Western Asia,2023,248.5,2.67185504720129,True,True,True
+ISR,Israel,Asia,Western Asia,2024,349.0,3.717899427305,False,False,False
+ITA,Italy,Europe,Southern Europe,2015,469.0,0.774242762514025,False,False,False
+ITA,Italy,Europe,Southern Europe,2016,404.0,0.668010320924807,False,False,False
+ITA,Italy,Europe,Southern Europe,2017,376.0,0.622616360456986,False,False,False
+ITA,Italy,Europe,Southern Europe,2018,359.0,0.595578796289962,False,False,False
+ITA,Italy,Europe,Southern Europe,2019,317.0,0.527189893600108,False,False,False
+ITA,Italy,Europe,Southern Europe,2020,285.0,0.475691584209703,False,False,False
+ITA,Italy,Europe,Southern Europe,2021,303.0,0.50728829294141,False,False,False
+ITA,Italy,Europe,Southern Europe,2022,322.0,0.540095240763765,False,False,False
+ITA,Italy,Europe,Southern Europe,2023,338.0,0.568072449338316,False,False,False
+ITA,Italy,Europe,Southern Europe,2024,336.0,0.566201157756669,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2015,1209.0,43.1395301537823,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2016,1354.0,48.1865109798695,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2017,1647.0,58.4921283339315,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2018,1289.0,45.7076395408315,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2019,1340.0,47.462677157099,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2020,1333.0,47.0901768054208,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2021,1474.0,51.9438139904003,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2022,1508.0,53.1146007388142,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2023,1404.0,49.4403451527686,False,False,False
+JAM,Jamaica,Americas,Latin America and the Caribbean,2024,1146.0,40.3638380867682,False,False,False
+JOR,Jordan,Asia,Western Asia,2015,169.0,1.77061077375796,False,False,False
+JOR,Jordan,Asia,Western Asia,2016,148.0,1.4790583574967,False,False,False
+JOR,Jordan,Asia,Western Asia,2017,133.0,1.29956090475235,False,False,False
+JOR,Jordan,Asia,Western Asia,2018,94.0,0.898463493612211,False,False,False
+JOR,Jordan,Asia,Western Asia,2019,122.0,1.14319003336944,False,False,False
+JOR,Jordan,Asia,Western Asia,2020,108.0,0.993996674252794,False,False,False
+JOR,Jordan,Asia,Western Asia,2021,114.0,1.03014940057956,False,False,False
+JOR,Jordan,Asia,Western Asia,2022,126.0,1.11937678075855,False,False,False
+JOR,Jordan,Asia,Western Asia,2023,113.0,0.987830151085125,False,False,False
+JOR,Jordan,Asia,Western Asia,2024,97.0,0.839617771367061,False,False,False
+JPN,Japan,Asia,Eastern Asia,2015,363.0,0.285207237530428,False,False,False
+JPN,Japan,Asia,Eastern Asia,2016,362.0,0.284680826905949,False,False,False
+JPN,Japan,Asia,Eastern Asia,2017,306.0,0.240822214259524,False,False,False
+JPN,Japan,Asia,Eastern Asia,2018,334.0,0.26317151259777,False,False,False
+JPN,Japan,Asia,Eastern Asia,2019,319.0,0.251776994076062,False,False,False
+JPN,Japan,Asia,Eastern Asia,2020,318.0,0.251772416452194,False,False,False
+JPN,Japan,Asia,Eastern Asia,2021,285.0,0.226767585297115,False,False,False
+JPN,Japan,Asia,Eastern Asia,2022,289.0,0.231204479818001,False,False,False
+JPN,Japan,Asia,Eastern Asia,2023,285.0,0.229153196964695,False,False,False
+JPN,Japan,Asia,Eastern Asia,2024,283.0,0.22868124913391,False,False,False
+KAZ,Kazakhstan,Asia,Central Asia,2015,853.0,4.71683271705767,False,False,False
+KAZ,Kazakhstan,Asia,Central Asia,2016,884.0,4.81124550528045,True,True,True
+KAZ,Kazakhstan,Asia,Central Asia,2017,915.0,4.90565829350323,False,False,False
+KAZ,Kazakhstan,Asia,Central Asia,2018,812.0,4.307287167886677,True,True,True
+KAZ,Kazakhstan,Asia,Central Asia,2019,709.0,3.708916042270123,True,True,True
+KAZ,Kazakhstan,Asia,Central Asia,2020,606.0,3.11054491665357,False,False,False
+KAZ,Kazakhstan,Asia,Central Asia,2021,562.0,2.84649159527772,False,False,False
+KAZ,Kazakhstan,Asia,Central Asia,2022,511.0,2.55058633787163,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2015,2261.0,4.8015943416874,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2016,2363.0,4.90863183219284,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2017,2466.0,5.01242276948533,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2018,1569.0,3.12505555114881,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2019,1576.0,3.07795502113628,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2020,2718.0,5.20516812678687,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2021,2718.0,5.10718267463251,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2022,2790.0,5.14262389997961,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2023,2624.0,4.74168286643765,False,False,False
+KEN,Kenya,Africa,Sub-Saharan Africa,2024,2624.0,4.64976623716666,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2016,30.0,63.728770353376,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2017,23.0,48.8836462949384,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2018,23.0,48.9273216545944,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2019,12.0,25.55828887256,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2020,10.0,21.3356091316407,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2021,14.0,29.9381990034857,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2022,11.0,23.5498132071634,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2023,30.0,64.1601437187219,False,False,False
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,2024,28.0,59.7741391456568,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2015,375.0,0.73552614730237,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2016,356.0,0.693986349015599,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2017,301.0,0.584621875068617,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2018,309.0,0.59836299503258,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2019,297.0,0.573715197653771,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2020,308.0,0.593924062354197,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2021,245.0,0.472531479878428,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2022,257.0,0.49630655708926,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2023,247.0,0.477306316584835,False,False,False
+KOR,Republic of Korea,Asia,Eastern Asia,2024,253.0,0.489195262192225,False,False,False
+KWT,Kuwait,Asia,Western Asia,2017,46.0,1.10718395103166,False,False,False
+KWT,Kuwait,Asia,Western Asia,2018,37.0,0.855810403300653,False,False,False
+KWT,Kuwait,Asia,Western Asia,2019,16.0,0.360182418888326,False,False,False
+KWT,Kuwait,Asia,Western Asia,2020,11.0,0.249991818449578,False,False,False
+KWT,Kuwait,Asia,Western Asia,2021,44.0,1.00900271203877,False,False,False
+KWT,Kuwait,Asia,Western Asia,2022,36.0,0.784397377454524,False,False,False
+LBN,Lebanon,Asia,Western Asia,2015,231.0,3.56896263234324,False,False,False
+LBN,Lebanon,Asia,Western Asia,2016,235.0,3.7165552530385,False,False,False
+LBN,Lebanon,Asia,Western Asia,2017,246.0,3.99342351327765,False,False,False
+LBN,Lebanon,Asia,Western Asia,2018,172.0,2.87427415177788,False,False,False
+LBN,Lebanon,Asia,Western Asia,2019,182.0,3.14085853124481,False,False,False
+LBN,Lebanon,Asia,Western Asia,2020,128.0,2.24466989542556,False,False,False
+LBN,Lebanon,Asia,Western Asia,2021,190.0,3.32276954940534,False,False,False
+LBN,Lebanon,Asia,Western Asia,2022,178.0,3.09862227072088,False,False,False
+LBN,Lebanon,Asia,Western Asia,2023,158.0,2.73664510692618,False,False,False
+LBN,Lebanon,Asia,Western Asia,2024,153.0,2.63522243473368,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2015,28.0,16.0087361960384,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2016,30.0,17.079808250686,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2017,49.0,27.7869140647152,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2018,37.0,20.9019472706011,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2019,46.0,25.8919349436991,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2020,52.0,29.1724286888396,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2021,70.0,39.2108535642666,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2022,66.0,36.9166745907004,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2023,70.0,39.0440891432332,False,False,False
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,2024,73.0,40.6134296928679,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2015,0.0,0.0,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2016,0.0,0.0,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2017,1.0,2.64197302545541,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2018,1.0,2.62271004629083,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2019,1.0,2.60145681581686,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2020,1.0,2.57951350375319,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2021,2.0,5.12242598094458,False,False,False
+LIE,Liechtenstein,Europe,Western Europe,2022,1.6666666666666667,4.251001151413099,True,True,True
+LIE,Liechtenstein,Europe,Western Europe,2023,1.3333333333333335,3.37957632188162,True,True,True
+LIE,Liechtenstein,Europe,Western Europe,2024,1.0,2.50815149235014,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2015,487.0,2.24114421871193,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2016,530.0,2.41890147871327,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2017,486.0,2.20033736695316,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2018,514.0,2.3097886777035,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2019,742.0,3.31094038448808,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2020,650.5,2.88672754785037,True,True,True
+LKA,Sri Lanka,Asia,Southern Asia,2021,559.0,2.46251471121266,False,False,False
+LKA,Sri Lanka,Asia,Southern Asia,2022,573.0,2.50930973618747,False,False,False
+LSO,Lesotho,Africa,Sub-Saharan Africa,2023,582.0,25.1787605473914,False,False,False
+LSO,Lesotho,Africa,Sub-Saharan Africa,2024,519.0,22.2039447297183,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2015,172.0,5.91926942449559,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2016,153.0,5.33266506558917,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2017,100.0,3.53442753319048,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2018,92.0,3.28280899974951,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2019,94.0,3.36307869103253,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2020,101.0,3.6126075712028,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2021,72.0,2.57650105788629,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2022,67.0,2.37848472418186,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2023,75.0,2.62779952622526,False,False,False
+LTU,Lithuania,Europe,Northern Europe,2024,76.0,2.65817031491798,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2015,5.0,0.877907630070794,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2016,5.0,0.856889217934349,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2017,2.0,0.335291716366678,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2018,3.0,0.493339099919257,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2019,4.0,0.644991719918795,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2020,3.0,0.475739656230524,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2021,4.0,0.624732536382861,False,False,False
+LUX,Luxembourg,Europe,Western Europe,2022,10.0,1.5306610542428,False,False,False
+LVA,Latvia,Europe,Northern Europe,2015,67.0,3.38748763187818,False,False,False
+LVA,Latvia,Europe,Northern Europe,2016,69.0,3.52065424981236,False,False,False
+LVA,Latvia,Europe,Northern Europe,2017,81.0,4.16968239374774,False,False,False
+LVA,Latvia,Europe,Northern Europe,2018,84.0,4.35777769938389,False,False,False
+LVA,Latvia,Europe,Northern Europe,2019,65.0,3.39556267869149,False,False,False
+LVA,Latvia,Europe,Northern Europe,2020,70.0,3.68203328189884,False,False,False
+LVA,Latvia,Europe,Northern Europe,2021,29.0,1.5379826017044,False,False,False
+LVA,Latvia,Europe,Northern Europe,2022,42.0,2.23278008232579,False,False,False
+LVA,Latvia,Europe,Northern Europe,2023,34.0,1.80620868297638,False,False,False
+LVA,Latvia,Europe,Northern Europe,2024,52.0,2.77796846631833,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2015,1.0,0.160725450392893,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2016,1.0,0.157651248637302,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2017,2.0,0.309332005267924,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2018,2.0,0.303595174051113,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2019,2.0,0.29807414296232,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2020,2.0,0.29279726058883,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2021,3.0,0.432026405453901,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2022,2.0,0.283947120527744,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2023,4.0,0.560293537784445,False,False,False
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,2024,1.0,0.138838367149732,False,False,False
+MAF,Saint Martin (French Part),Americas,Latin America and the Caribbean,2015,6.0,16.0560892718564,False,False,False
+MAF,Saint Martin (French Part),Americas,Latin America and the Caribbean,2016,10.0,26.8997982515131,False,False,False
+MAR,Morocco,Africa,Northern Africa,2015,431.0,1.24539159959094,False,False,False
+MAR,Morocco,Africa,Northern Africa,2016,594.0,1.69600616957935,False,False,False
+MAR,Morocco,Africa,Northern Africa,2017,761.0,2.14690397826667,False,False,False
+MAR,Morocco,Africa,Northern Africa,2018,510.0,1.42300060045045,False,False,False
+MAR,Morocco,Africa,Northern Africa,2019,1004.0,2.77264595868349,False,False,False
+MAR,Morocco,Africa,Northern Africa,2020,1073.0,2.93295948896857,False,False,False
+MAR,Morocco,Africa,Northern Africa,2021,716.0,1.93752077304373,False,False,False
+MAR,Morocco,Africa,Northern Africa,2022,618.0,1.65554646642091,False,False,False
+MAR,Morocco,Africa,Northern Africa,2023,643.0,1.70500474577332,False,False,False
+MAR,Morocco,Africa,Northern Africa,2024,635.0,1.66749065213931,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2015,189.0,5.74963619861434,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2016,200.0,6.17704523511996,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2017,141.0,4.41522186881311,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2018,166.0,5.26353672252251,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2019,121.0,3.88747276359475,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2020,93.0,3.03017368760082,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2021,66.0,2.18269955950808,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2022,75.0,2.46711784221268,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2023,78.0,2.54314378217647,False,False,False
+MDA,Republic of Moldova,Europe,Eastern Europe,2024,61.0,2.00991083738981,False,False,False
+MDV,Maldives,Asia,Southern Asia,2015,4.0,0.934243286294184,False,False,False
+MDV,Maldives,Asia,Southern Asia,2019,3.0,0.615093155858455,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2015,20762.0,17.1484302942078,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2016,24559.0,20.0889396309777,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2017,32079.0,25.9959360229634,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2018,36685.0,29.4484283285099,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2019,36661.0,29.150867187807,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2020,36773.0,29.0010048931398,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2021,35700.0,27.9675034061893,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2022,33287.0,25.8814968854168,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2023,32252.0,24.8589948436701,False,False,False
+MEX,Mexico,Americas,Latin America and the Caribbean,2024,33550.0,25.6378892147758,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2015,25.0,1.26239291120934,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2016,19.0,0.968765224591646,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2017,31.0,1.59721486945216,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2018,25.0,1.30226748209447,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2019,23.0,1.21203114814657,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2020,11.0,0.587601972312729,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2021,14.0,0.756303996391349,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2022,18.0,0.978137007650662,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2023,28.0,1.52854990019388,False,False,False
+MKD,North Macedonia,Europe,Southern Europe,2024,23.0,1.26165038132011,False,False,False
+MLT,Malta,Europe,Southern Europe,2015,4.0,0.898915795186531,False,False,False
+MLT,Malta,Europe,Southern Europe,2016,5.0,1.09825180278033,False,False,False
+MLT,Malta,Europe,Southern Europe,2017,9.0,1.92347764758684,False,False,False
+MLT,Malta,Europe,Southern Europe,2018,8.0,1.65099085247881,False,False,False
+MLT,Malta,Europe,Southern Europe,2019,5.0,0.992032983112623,False,False,False
+MLT,Malta,Europe,Southern Europe,2020,7.0,1.35081285163347,False,False,False
+MLT,Malta,Europe,Southern Europe,2021,2.0,0.38140534520521,False,False,False
+MLT,Malta,Europe,Southern Europe,2022,8.0,1.51460075124197,False,False,False
+MLT,Malta,Europe,Southern Europe,2023,3.0,0.562898250512237,False,False,False
+MLT,Malta,Europe,Southern Europe,2024,5.0,0.926600285022248,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2015,1302.0,2.54849103640211,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2016,1339.0,2.60021730748139,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2017,1392.0,2.68234254369858,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2018,1452.0,2.77776467862348,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2019,1519.0,2.8855992129134,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2020,1571.0,2.96322722719558,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2021,15299.0,28.6567343550508,False,False,False
+MMR,Myanmar,Asia,South-eastern Asia,2022,2098.0,3.90276297667527,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2015,17.0,2.70638148835062,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2016,28.0,4.48539323682796,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2017,15.0,2.41891202175086,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2018,14.0,2.2734838704439,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2019,23.0,3.76021900823406,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2020,18.0,2.96084285326556,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2021,15.0,2.48405855422824,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2022,16.0,2.60311804733607,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2023,5.0,0.789201202111271,False,False,False
+MNE,Montenegro,Europe,Southern Europe,2024,16.0,2.50595752245377,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2015,214.0,7.18959068215609,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2016,184.0,6.05101532090771,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2017,191.0,6.15262900871161,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2018,196.0,6.18744290031966,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2019,205.0,6.34259904548525,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2020,169.0,5.13555198295361,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2021,206.0,6.16826672303943,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2022,202.0,5.96571485950299,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2023,203.0,5.91503475082916,False,False,False
+MNG,Mongolia,Asia,Eastern Asia,2024,196.0,5.6394114295908,False,False,False
+MRT,Mauritania,Africa,Sub-Saharan Africa,2018,53.0,1.22184990380814,False,False,False
+MRT,Mauritania,Africa,Sub-Saharan Africa,2019,48.0,1.07437639165317,False,False,False
+MRT,Mauritania,Africa,Sub-Saharan Africa,2020,46.0,0.999971522550119,False,False,False
+MSR,Montserrat,Americas,Latin America and the Caribbean,2017,0.0,0.0,False,False,False
+MSR,Montserrat,Americas,Latin America and the Caribbean,2018,0.0,0.0,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2015,21.0,1.62504048091912,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2016,21.0,1.62563423926317,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2017,33.0,2.55684129376169,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2018,37.0,2.87081302588736,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2019,27.0,2.09909272547754,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2020,35.0,2.72750722204948,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2021,34.0,2.65703154091809,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2022,29.0,2.27249663925174,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2023,24.0,1.88443986595351,False,False,False
+MUS,Mauritius,Africa,Sub-Saharan Africa,2024,34.0,2.67470336359682,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2015,498.0,1.59447772809976,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2016,456.0,1.4344275283881,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2017,379.0,1.1713566700858,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2018,323.0,0.981435762735261,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2019,310.0,0.9270169844912,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2020,253.0,0.746542626101193,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2021,242.0,0.705901601371328,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2022,244.0,0.703261371729175,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2023,265.0,0.754420519919292,False,False,False
+MYS,Malaysia,Asia,South-eastern Asia,2024,244.0,0.68620912445242,False,False,False
+NAM,Namibia,Africa,Sub-Saharan Africa,2018,476.0,18.4687504668112,False,False,False
+NAM,Namibia,Africa,Sub-Saharan Africa,2019,319.0,12.0354899812092,False,False,False
+NAM,Namibia,Africa,Sub-Saharan Africa,2020,303.0,11.1039385450139,False,False,False
+NAM,Namibia,Africa,Sub-Saharan Africa,2021,315.0,11.2077806904171,False,False,False
+NGA,Nigeria,Africa,Sub-Saharan Africa,2016,63400.0,32.4390092901434,False,False,False
+NGA,Nigeria,Africa,Sub-Saharan Africa,2017,57000.0,28.6591055805766,True,True,True
+NGA,Nigeria,Africa,Sub-Saharan Africa,2018,50600.0,24.8792018710098,True,True,True
+NGA,Nigeria,Africa,Sub-Saharan Africa,2019,44200.0,21.099298161443,False,False,False
+NGA,Nigeria,Africa,Sub-Saharan Africa,2023,35884.0,15.7466808233499,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2015,524.0,8.52113297894743,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2016,453.0,7.26815838263741,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2017,431.0,6.82368909372622,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2018,682.0,10.65611679854,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2019,515.0,7.94304819024202,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2020,634.5,9.64518391120716,True,True,True
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2021,754.0,11.3473196321723,False,False,False
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2022,563.0,8.399488493650365,True,True,True
+NIC,Nicaragua,Americas,Latin America and the Caribbean,2023,372.0,5.45165735512843,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2015,104.0,0.607922883579319,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2016,94.0,0.546362553519554,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2017,132.0,0.762328497745067,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2018,100.0,0.574010651743461,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2019,125.0,0.712758090417298,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2020,121.0,0.686068183497271,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2021,126.0,0.710637312796065,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2022,143.0,0.798685419651381,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2023,125.0,0.690893081283378,False,False,False
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,2024,120.0,0.658301068123655,False,False,False
+NOR,Norway,Europe,Northern Europe,2015,24.0,0.462448150409719,False,False,False
+NOR,Norway,Europe,Northern Europe,2016,27.0,0.515662484007301,False,False,False
+NOR,Norway,Europe,Northern Europe,2017,28.0,0.530624369587454,False,False,False
+NOR,Norway,Europe,Northern Europe,2018,25.0,0.470654459145075,False,False,False
+NOR,Norway,Europe,Northern Europe,2019,28.0,0.523586594350632,False,False,False
+NOR,Norway,Europe,Northern Europe,2020,31.0,0.576285998471727,False,False,False
+NOR,Norway,Europe,Northern Europe,2021,29.0,0.536233629966067,False,False,False
+NOR,Norway,Europe,Northern Europe,2022,30.0,0.549772609467286,False,False,False
+NOR,Norway,Europe,Northern Europe,2023,40.0,0.724747049690651,False,False,False
+NOR,Norway,Europe,Northern Europe,2024,39.0,0.699343334540747,False,False,False
+NPL,Nepal,Asia,Southern Asia,2015,598.0,2.1492523495048,False,False,False
+NPL,Nepal,Asia,Southern Asia,2016,617.0,2.20708210796159,False,False,False
+NPL,Nepal,Asia,Southern Asia,2017,630.0,2.24909570287775,False,False,False
+NPL,Nepal,Asia,Southern Asia,2018,659.0,2.34689208986609,False,False,False
+NPL,Nepal,Asia,Southern Asia,2019,555.0,1.95325811107588,False,False,False
+NPL,Nepal,Asia,Southern Asia,2020,617.0,2.13004129984372,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2015,48.0,1.04030555507995,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2016,50.0,1.06049711862933,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2017,35.0,0.727234722175039,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2018,55.0,1.12225498980074,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2019,114.0,2.28484272415384,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2020,52.0,1.02566226716727,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2021,59.0,1.15511953382508,False,False,False
+NZL,New Zealand,Oceania,Australia and New Zealand,2022,75.0,1.46149415952832,False,False,False
+OMN,Oman,Asia,Western Asia,2015,16.0,0.38232739411622,False,False,False
+OMN,Oman,Asia,Western Asia,2016,16.0,0.364391855614282,False,False,False
+OMN,Oman,Asia,Western Asia,2017,17.0,0.374664193442209,False,False,False
+OMN,Oman,Asia,Western Asia,2018,13.0,0.282739155186279,False,False,False
+OMN,Oman,Asia,Western Asia,2019,23.0,0.500953881532248,False,False,False
+OMN,Oman,Asia,Western Asia,2020,14.0,0.30956353421169,False,False,False
+OMN,Oman,Asia,Western Asia,2021,11.0,0.24442141451561,False,False,False
+OMN,Oman,Asia,Western Asia,2022,12.0,0.253687667354583,False,False,False
+OMN,Oman,Asia,Western Asia,2023,7.0,0.138633928990513,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2015,9486.0,4.36557663665432,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2016,8516.0,3.86846723526245,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2017,8235.0,3.68829384464626,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2018,8241.0,3.63153404981254,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2019,8014.0,3.47225684652177,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2020,8350.0,3.55316509010108,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2021,9068.0,3.78657227562101,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2022,9937.0,4.07754321000689,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2023,10729.0,4.33487075793336,False,False,False
+PAK,Pakistan,Asia,Southern Asia,2024,10877.0,4.32882404941659,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2015,471.0,11.8938357734005,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2016,405.0,10.0519063068018,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2017,378.0,9.22242063167726,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2018,401.0,9.62124332136356,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2019,480.0,11.3349220328569,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2020,500.0,11.6461589453797,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2021,550.0,12.6570480772218,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2022,499.0,11.3389170493456,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2023,522.0,11.7072934419645,False,False,False
+PAN,Panama,Americas,Latin America and the Caribbean,2024,577.0,12.7779904982243,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2015,2247.0,7.37746900609372,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2016,2435.0,7.88881315592262,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2017,2487.0,7.9394377010568,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2018,2452.0,7.68710269227761,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2019,2385.0,7.3499267457301,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2020,1903.0,5.79501314909191,False,False,False
+PER,Peru,Americas,Latin America and the Caribbean,2021,2853.0,8.60480803979216,False,False,False
+PHL,Philippines,Asia,South-eastern Asia,2016,11155.0,10.4510468515231,False,False,False
+PHL,Philippines,Asia,South-eastern Asia,2017,8268.0,7.64708050157393,False,False,False
+PHL,Philippines,Asia,South-eastern Asia,2018,5651.0,5.16236715828629,False,False,False
+PHL,Philippines,Asia,South-eastern Asia,2019,4764.0,4.2994572517325,False,False,False
+PHL,Philippines,Asia,South-eastern Asia,2023,4995.0,4.34759149828352,False,False,False
+PHL,Philippines,Asia,South-eastern Asia,2024,4995.0,4.31184545651845,False,False,False
+PLW,Palau,Oceania,Micronesia,2015,3.0,16.8828610821914,False,False,False
+PLW,Palau,Oceania,Micronesia,2016,0.0,0.0,False,False,False
+PLW,Palau,Oceania,Micronesia,2017,0.0,0.0,False,False,False
+PLW,Palau,Oceania,Micronesia,2018,2.0,11.2268096213758,False,False,False
+POL,Poland,Europe,Eastern Europe,2015,298.0,0.778752821607014,False,False,False
+POL,Poland,Europe,Eastern Europe,2016,260.0,0.67950291225801,False,False,False
+POL,Poland,Europe,Eastern Europe,2017,287.0,0.750229542138962,False,False,False
+POL,Poland,Europe,Eastern Europe,2018,273.0,0.713892149018161,False,False,False
+POL,Poland,Europe,Eastern Europe,2019,253.0,0.661855188726895,False,False,False
+POL,Poland,Europe,Eastern Europe,2020,266.0,0.69686389242182,False,False,False
+POL,Poland,Europe,Eastern Europe,2021,273.0,0.717659927064458,False,False,False
+POL,Poland,Europe,Eastern Europe,2022,270.0,0.703386223722305,False,False,False
+POL,Poland,Europe,Eastern Europe,2023,311.0,0.802314721828908,False,False,False
+POL,Poland,Europe,Eastern Europe,2024,261.0,0.677232514498679,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2015,614.0,17.4342096389883,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2016,704.0,20.2531208577657,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2017,728.0,21.5903710503968,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2018,664.0,20.1819536860636,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2019,633.0,19.2516608739342,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2020,556.0,16.9729272652066,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2021,632.0,19.4269659812923,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2022,572.0,17.6490453393793,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2023,473.0,14.5896581532053,False,False,False
+PRI,Puerto Rico,Americas,Latin America and the Caribbean,2024,493.0,15.205705748312,False,False,False
+PRT,Portugal,Europe,Southern Europe,2015,100.0,0.96429532624377,False,False,False
+PRT,Portugal,Europe,Southern Europe,2016,66.0,0.637904765071273,False,False,False
+PRT,Portugal,Europe,Southern Europe,2017,76.0,0.735661094098411,False,False,False
+PRT,Portugal,Europe,Southern Europe,2018,81.0,0.784476811591817,False,False,False
+PRT,Portugal,Europe,Southern Europe,2019,73.0,0.705776821960449,False,False,False
+PRT,Portugal,Europe,Southern Europe,2020,81.0,0.78106023430457,False,False,False
+PRT,Portugal,Europe,Southern Europe,2021,82.0,0.789147831496343,False,False,False
+PRT,Portugal,Europe,Southern Europe,2022,75.0,0.719971949892832,False,False,False
+PRT,Portugal,Europe,Southern Europe,2023,74.0,0.709441652163059,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2015,617.0,10.0176925113933,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2016,669.0,10.7054970567084,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2017,541.0,8.53492626715061,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2018,497.0,7.73254240471022,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2019,554.0,8.50337786708883,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2020,481.0,7.28375188027935,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2021,525.0,7.85436422886151,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2022,512.0,7.57344466296988,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2023,464.0,6.7795163925492,False,False,False
+PRY,Paraguay,Americas,Latin America and the Caribbean,2024,477.0,6.88395825579259,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2015,30.0,0.663487089094152,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2016,19.0,0.410124550508889,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2017,24.0,0.506036328137148,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2018,17.0,0.350472648444494,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2019,16.0,0.322725871803602,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2020,18.0,0.355051154981407,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2021,34.0,0.655695277576543,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2022,33.0,0.622023007311598,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2023,19.0,0.351253322694671,False,False,False
+PSE,State of Palestine,Asia,Western Asia,2024,15.0,0.272953427048556,False,False,False
+QAT,Qatar,Asia,Western Asia,2015,6.0,0.247185127859597,False,False,False
+QAT,Qatar,Asia,Western Asia,2016,12.0,0.461649967761444,False,False,False
+QAT,Qatar,Asia,Western Asia,2017,12.0,0.443342737741158,False,False,False
+QAT,Qatar,Asia,Western Asia,2018,10.0,0.362168986600472,False,False,False
+QAT,Qatar,Asia,Western Asia,2019,11.0,0.393149056031246,False,False,False
+QAT,Qatar,Asia,Western Asia,2020,12.0,0.428055468854506,False,False,False
+QAT,Qatar,Asia,Western Asia,2021,9.0,0.319717852547547,False,False,False
+QAT,Qatar,Asia,Western Asia,2022,2.0,0.0691454145354033,False,False,False
+ROU,Romania,Europe,Eastern Europe,2015,339.0,1.70600204986966,False,False,False
+ROU,Romania,Europe,Eastern Europe,2016,306.0,1.54724790736617,False,False,False
+ROU,Romania,Europe,Eastern Europe,2017,255.0,1.29511300787888,False,False,False
+ROU,Romania,Europe,Eastern Europe,2018,250.0,1.27564870308368,False,False,False
+ROU,Romania,Europe,Eastern Europe,2019,244.0,1.25118311157138,False,False,False
+ROU,Romania,Europe,Eastern Europe,2020,281.0,1.44901611032613,False,False,False
+ROU,Romania,Europe,Eastern Europe,2021,244.0,1.26765356960595,False,False,False
+ROU,Romania,Europe,Eastern Europe,2022,247.0,1.28868853637199,False,False,False
+ROU,Romania,Europe,Eastern Europe,2023,212.0,1.10887485110282,False,False,False
+ROU,Romania,Europe,Eastern Europe,2024,213.0,1.12016310416234,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2015,16646.0,11.4556968970425,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2016,15864.0,10.8822499466091,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2017,13293.0,9.09316032017364,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2018,11964.0,8.17044875503453,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2019,11202.0,7.64469087376708,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2020,10697.0,7.30812673633554,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2021,9866.0,6.76512531955806,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2022,9366.0,6.43358050413265,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2023,8792.0,6.04508370761554,False,False,False
+RUS,Russian Federation,Europe,Eastern Europe,2024,11327.0,7.82141065835721,False,False,False
+RWA,Rwanda,Africa,Sub-Saharan Africa,2015,293.0,2.51717737303246,False,False,False
+RWA,Rwanda,Africa,Sub-Saharan Africa,2016,392.0,3.28881602035978,False,False,False
+RWA,Rwanda,Africa,Sub-Saharan Africa,2017,470.0,3.85180847120042,False,False,False
+RWA,Rwanda,Africa,Sub-Saharan Africa,2018,285.0,2.28219163427022,False,False,False
+RWA,Rwanda,Africa,Sub-Saharan Africa,2019,404.0,3.16215359253131,False,False,False
+RWA,Rwanda,Africa,Sub-Saharan Africa,2020,472.0,3.61247427164444,False,False,False
+SAU,Saudi Arabia,Asia,Western Asia,2022,261.0,0.811179949347251,False,False,False
+SAU,Saudi Arabia,Asia,Western Asia,2023,206.0,0.61928268306447,False,False,False
+SAU,Saudi Arabia,Asia,Western Asia,2024,272.0,0.800877278615474,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2015,14.0,0.253378095590325,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2016,18.0,0.32270038551043,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2017,11.0,0.196285615913482,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2018,9.0,0.159733932962686,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2019,12.0,0.211656543163604,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2020,10.0,0.177931178177524,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2021,6.0,0.108180423309996,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2022,7.0,0.123896338057884,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2023,4.0,0.0690954942050905,False,False,False
+SGP,Singapore,Asia,South-eastern Asia,2024,10.0,0.171456386553224,False,False,False
+SLE,Sierra Leone,Africa,Sub-Saharan Africa,2015,124.0,1.76195053608056,False,False,False
+SLE,Sierra Leone,Africa,Sub-Saharan Africa,2020,176.0,2.22431228940123,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2015,6656.0,107.638231074992,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2016,5276.0,85.0858022421141,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2017,3962.0,63.764040219627,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2018,3346.0,53.7958771232068,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2019,2398.0,38.5386955905095,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2020,1341.0,21.5087446038674,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2021,1085.0,17.343956146806,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2022,496.0,7.89768799960639,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2023,321.0,5.08746638468473,False,False,False
+SLV,El Salvador,Americas,Latin America and the Caribbean,2024,209.0,3.29746979935764,False,False,False
+SRB,Serbia,Europe,Southern Europe,2015,100.0,1.39329072000109,False,False,False
+SRB,Serbia,Europe,Southern Europe,2016,116.0,1.62782274638115,False,False,False
+SRB,Serbia,Europe,Southern Europe,2017,86.0,1.21580435389435,False,False,False
+SRB,Serbia,Europe,Southern Europe,2018,105.0,1.49572244747486,False,False,False
+SRB,Serbia,Europe,Southern Europe,2019,88.0,1.26325112750546,False,False,False
+SRB,Serbia,Europe,Southern Europe,2020,84.0,1.21601456438015,False,False,False
+SRB,Serbia,Europe,Southern Europe,2021,77.0,1.1264836301447,False,False,False
+SRB,Serbia,Europe,Southern Europe,2022,74.0,1.08964325742373,False,False,False
+SRB,Serbia,Europe,Southern Europe,2023,89.0,1.31400205013848,False,False,False
+SRB,Serbia,Europe,Southern Europe,2024,60.0,0.890707780154318,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2015,34.0,5.84567085090617,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2016,41.0,6.97567191883721,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2017,36.0,6.06353574875403,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2018,38.0,6.33848335105607,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2019,30.0,4.95239101438174,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2020,55.0,8.9822828553534,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2021,35.0,5.66438365032303,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2022,45.0,7.22121303541283,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2023,41.0,6.51946457704576,False,False,False
+SUR,Suriname,Americas,Latin America and the Caribbean,2024,27.0,4.25578195264733,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2015,48.0,0.885563434200239,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2016,60.0,1.10553043442371,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2017,80.0,1.47175143295698,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2018,67.0,1.23088635575335,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2019,76.0,1.39433538407656,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2020,63.0,1.15489878274585,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2021,55.0,1.0105169087957,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2022,42.0,0.767376066253057,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2023,62.0,1.12358440823663,False,False,False
+SVK,Slovakia,Europe,Eastern Europe,2024,59.0,1.07141050921145,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2015,20.0,0.970898765842034,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2016,10.0,0.485113562659451,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2017,19.0,0.921252321313415,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2018,9.0,0.434891751818874,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2019,14.0,0.671965756625042,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2020,11.0,0.523206714930108,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2021,9.0,0.425835133669648,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2022,13.0,0.614590956625007,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2023,12.0,0.566466326409227,False,False,False
+SVN,Slovenia,Europe,Southern Europe,2024,15.0,0.707982478849613,False,False,False
+SWE,Sweden,Europe,Northern Europe,2015,112.0,1.14291761252879,False,False,False
+SWE,Sweden,Europe,Northern Europe,2016,106.0,1.06819519352472,False,False,False
+SWE,Sweden,Europe,Northern Europe,2017,113.0,1.12349926472939,False,False,False
+SWE,Sweden,Europe,Northern Europe,2018,108.0,1.06138286689242,False,False,False
+SWE,Sweden,Europe,Northern Europe,2019,111.0,1.07985845098683,False,False,False
+SWE,Sweden,Europe,Northern Europe,2020,124.0,1.19764105277864,False,False,False
+SWE,Sweden,Europe,Northern Europe,2021,113.0,1.08485573554827,False,False,False
+SWE,Sweden,Europe,Northern Europe,2022,116.0,1.10609575089503,False,False,False
+SWE,Sweden,Europe,Northern Europe,2023,121.0,1.14675703743944,False,False,False
+SWE,Sweden,Europe,Northern Europe,2024,92.0,0.867351830616747,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2015,112.0,9.8003828274542,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2016,116.0,10.0912782213252,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2017,130.0,11.224366891744,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2021,151.0,12.5145709802017,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2022,272.0,22.3149001592808,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2023,214.0,17.3912195470806,False,False,False
+SWZ,Eswatini,Africa,Sub-Saharan Africa,2024,170.0,13.6785531952899,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2015,7.0,6.52805431341189,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2016,12.0,10.926871909744,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2017,7.0,6.22629006506473,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2018,9.0,7.82336578581363,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2019,10.0,8.49975138227207,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2020,9.0,7.48185649799237,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2021,5.0,4.06545380628113,False,False,False
+SYC,Seychelles,Africa,Sub-Saharan Africa,2022,10.0,7.96669919735506,False,False,False
+TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,2019,13.0,30.1166440791836,False,False,False
+TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,2020,23.0,51.8187245834788,False,False,False
+TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,2021,14.0,30.9436714666195,False,False,False
+TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,2022,35.0,76.3400403511642,False,False,False
+TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,2023,41.5,89.7446583472611,True,True,True
+TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,2024,48.0,103.149276343358,False,False,False
+TJK,Tajikistan,Asia,Central Asia,2020,87.0,0.892370798940089,False,False,False
+TKM,Turkmenistan,Asia,Central Asia,2015,63.0,1.01355101620555,False,False,False
+TLS,Timor-Leste,Asia,South-eastern Asia,2015,49.0,4.06594633033822,False,False,False
+TON,Tonga,Oceania,Polynesia,2018,10.0,9.47270204089365,False,False,False
+TON,Tonga,Oceania,Polynesia,2019,1.0,0.946346864516251,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2015,420.0,29.3873061531072,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2016,463.0,32.2193196226095,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2017,495.0,34.2498809038232,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2018,517.0,35.1576671765775,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2019,539.0,36.2988873279844,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2020,399.0,26.9408284203458,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2021,452.0,30.3821121953597,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2022,605.0,40.4432986623964,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2023,577.0,38.3916110670306,False,False,False
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,2024,626.0,41.5179520374802,False,False,False
+TUN,Tunisia,Africa,Northern Africa,2019,571.0,4.80838825436222,False,False,False
+TUN,Tunisia,Africa,Northern Africa,2020,562.0,4.69348024650292,False,False,False
+TUR,Türkiye,Asia,Western Asia,2015,2235.0,2.79325328973375,False,False,False
+TUR,Türkiye,Asia,Western Asia,2016,2704.0,3.31161155785991,False,False,False
+TUR,Türkiye,Asia,Western Asia,2017,2541.0,3.05836302689691,False,False,False
+TUR,Türkiye,Asia,Western Asia,2018,2161.0,2.55994219861376,False,False,False
+TUR,Türkiye,Asia,Western Asia,2019,2045.0,2.39580104761995,False,False,False
+TUR,Türkiye,Asia,Western Asia,2020,2144.0,2.49036807460102,False,False,False
+TUR,Türkiye,Asia,Western Asia,2021,2161.0,2.49289816744587,False,False,False
+TUR,Türkiye,Asia,Western Asia,2022,2286.0,2.62582139837108,False,False,False
+TUR,Türkiye,Asia,Western Asia,2023,2824.0,3.2359158609854,False,False,False
+TUR,Türkiye,Asia,Western Asia,2024,2110.0,2.41215070042969,False,False,False
+TUV,Tuvalu,Oceania,Polynesia,2019,0.0,0.0,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2015,3746.0,7.20094334280093,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2016,3439.0,6.38934150079073,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2017,3147.0,5.65469286500665,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2018,2734.0,4.75998593558216,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2019,2719.0,4.59485426006108,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2020,2286.0,3.74921291744897,False,False,False
+TZA,United Republic of Tanzania,Africa,Sub-Saharan Africa,2024,2263.0,3.30075090113927,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2016,4482.0,11.5517988640576,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2017,4735.0,11.7852360138494,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2018,4497.0,10.8189825436186,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2019,4718.0,10.9721855213314,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2020,4589.0,10.3222985322778,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2021,3991.0,8.6929190935579,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2022,4143.0,8.75663044480037,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2023,4366.0,8.97308867739149,False,False,False
+UGA,Uganda,Africa,Sub-Saharan Africa,2024,4411.0,8.81933788286006,False,False,False
+UKR,Ukraine,Europe,Eastern Europe,2017,2751.0,6.05466477531939,False,False,False
+UKR,Ukraine,Europe,Eastern Europe,2018,2002.0,4.42833090390794,False,False,False
+UKR,Ukraine,Europe,Eastern Europe,2019,1820.0,4.04827159044446,False,False,False
+UKR,Ukraine,Europe,Eastern Europe,2020,1698.0,3.80035686872931,False,False,False
+UKR,Ukraine,Europe,Eastern Europe,2021,1673.0,3.77663964401616,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2015,293.0,8.69948102993542,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2016,267.0,7.90108434244779,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2017,283.0,8.35193212210643,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2018,421.0,12.4022914485464,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2019,394.0,11.5977676357818,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2020,341.0,10.0324569104505,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2021,307.0,9.03819875470108,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2022,383.0,11.2948931452974,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2023,381.0,11.2453054170348,False,False,False
+URY,Uruguay,Americas,Latin America and the Caribbean,2024,382.0,11.2797912352774,False,False,False
+USA,United States of America,Americas,Northern America,2015,15883.0,4.87019612648983,False,False,False
+USA,United States of America,Americas,Northern America,2016,17413.0,5.28982026159524,False,False,False
+USA,United States of America,Americas,Northern America,2017,17294.0,5.20582704229048,False,False,False
+USA,United States of America,Americas,Northern America,2018,16374.0,4.88693701574911,False,False,False
+USA,United States of America,Americas,Northern America,2019,16669.0,4.93472178525416,False,False,False
+USA,United States of America,Americas,Northern America,2020,21570.0,6.35465593745812,False,False,False
+USA,United States of America,Americas,Northern America,2021,23062.0,6.77972198500888,False,False,False
+USA,United States of America,Americas,Northern America,2022,22243.0,6.51267429794199,False,False,False
+USA,United States of America,Americas,Northern America,2023,19796.0,5.76340794073065,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2015,506.0,1.64556342685201,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2016,757.0,2.41972336009243,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2017,591.0,1.85737044900045,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2018,474.0,1.46416093130273,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2019,396.0,1.20128497449438,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2020,449.0,1.33685174451114,False,False,False
+UZB,Uzbekistan,Asia,Central Asia,2021,479.0,1.39879762685076,False,False,False
+VAT,Holy See,Europe,Southern Europe,2015,0.0,0.0,False,False,False
+VAT,Holy See,Europe,Southern Europe,2019,0.0,0.0,False,False,False
+VAT,Holy See,Europe,Southern Europe,2020,0.0,0.0,False,False,False
+VAT,Holy See,Europe,Southern Europe,2021,0.0,0.0,False,False,False
+VAT,Holy See,Europe,Southern Europe,2022,0.0,0.0,False,False,False
+VAT,Holy See,Europe,Southern Europe,2023,0.0,0.0,False,False,False
+VAT,Holy See,Europe,Southern Europe,2024,0.0,0.0,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2016,40.0,37.6121901108149,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2017,39.0,36.9097981317964,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2018,34.0,32.4037893372472,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2019,19.0,18.2399416321868,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2020,33.0,31.8760504607538,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2021,32.0,31.1159945935959,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2022,42.0,41.1579091782137,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2023,52.0,51.3212761232698,False,False,False
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,2024,51.0,50.687763377594,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2015,15654.0,51.2004132142202,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2016,17407.0,56.5792047678519,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2017,14665.0,47.9792075487112,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2018,13269.5,44.50581047183795,True,True,True
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2019,11874.0,41.0324133949647,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2020,8384.0,29.475380243919,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2021,5444.0,19.2791045599615,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2022,3568.0,12.6466448562847,False,False,False
+VEN,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,2023,3909.0,13.812304038599,False,False,False
+VUT,Vanuatu,Oceania,Melanesia,2019,2.0,0.684967866444965,False,False,False
+VUT,Vanuatu,Oceania,Melanesia,2020,1.0,0.3346065111081,False,False,False
+WSM,Samoa,Oceania,Polynesia,2017,7.0,3.40774385449907,False,False,False
+WSM,Samoa,Oceania,Polynesia,2018,13.0,6.26258538794308,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2015,42.0,2.36085035581387,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2016,38.0,2.15692969005204,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2017,48.0,2.71474940317931,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2018,44.0,2.48905241208978,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2019,24.0,1.36748864129747,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2020,37.0,2.11257513202167,False,False,False
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,2021,33.0,1.89497747704421,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2015,18673.0,32.9193156001477,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2016,19016.0,33.2101800798263,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2017,20336.0,35.2840163787516,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2018,21022.0,35.8657632618552,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2019,21325.0,35.7874756270719,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2020,19972.0,32.9775673780065,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2021,25181.0,40.9429825270973,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2022,27272.0,43.7202551331462,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2023,27419.0,43.3759945153785,False,False,False
+ZAF,South Africa,Africa,Sub-Saharan Africa,2024,25423.0,39.7189774932538,False,False,False
+ZMB,Zambia,Africa,Sub-Saharan Africa,2015,853.0,5.20150860823759,False,False,False
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,2018,734.0,4.88212007993374,False,False,False
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,2019,790.0,5.1730796210621,False,False,False
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,2020,780.0,5.02354351291954,False,False,False
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,2021,982.0,6.2162875596387,False,False,False
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,2022,1086.0,6.75833125350771,False,False,False
