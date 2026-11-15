@@ -285,7 +285,7 @@ The project is organised as follows:
 - `outputs/presentation/`: Final project presentation in PDF format.
 - `AI_USAGE.md`: Documentation of generative AI assistance.
 - `CONTRIBUTIONS.md`: Documentation of group-member contributions.
-- 
+  
 ### Data Storage and Repository Tracking
 
 The original UNODC Excel dataset is stored locally in `data/raw/` and is not included in the GitHub repository.
