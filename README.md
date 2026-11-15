@@ -269,7 +269,7 @@ The project is organised as follows:
     ├── tables/
     │   └── homicide_availability.csv
     └── presentation/
-        # DS608_final_presentation.pdf
+        └──DS608_final_presentation.pdf
 
 ```
 
