@@ -128,9 +128,9 @@ This approach improves continuity for exploratory analysis but does not eliminat
 
 Where suitable homicide counts and rates are available, population denominators can be inferred using:
 
-\[
+$$
 \text{Population} = \frac{\text{Homicide Count}}{\text{Homicide Rate per 100,000}} \times 100{,}000
-\]
+$$
 
 These denominators may be used to derive additional rates where appropriate.
 
